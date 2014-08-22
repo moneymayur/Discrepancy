@@ -1,0 +1,78 @@
+1
+http://www.jabong.com/612-ivy-league-Green-T-Shirts-536966.html
+green t shirts
+612 Ivy League
+green t shirts
+ check out this green coloured t-shirt from 612 ivy league that will lend your little son a stylish casual look. featuring a funky print on the front, this half-sleeved t-shirt will look good with blue jeans or shorts. made from 100% cotton, this regular-fit t-shirt will keep him at great ease all along. 
+green
+None
+{0: 'blue', 1: 'green'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+14
+http://www.jabong.com/612-ivy-league-Green--Dress-536816.html
+green  dress
+612 Ivy League
+green  dress
+ your little fashionista will certainly look adorable wearing this green coloured dress from 612 ivy league. pair this pretty dress with white belly shoes and a matching headband to complete her trendy look. made from 100% cotton, this regular-fit dress is soft against the skin and fine in quality. 
+green
+None
+{0: 'green', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+21
+http://www.jabong.com/612-ivy-league-White-T-Shirts-536978.html
+white t shirts
+612 Ivy League
+white t shirts
+ check out this white coloured t-shirt from 612 ivy league that will lend your little son a stylish casual look. featuring red coloured stripes on a white base, this half-sleeved t-shirt will look good with blue jeans or shorts. made from 100% cotton, this regular-fit t-shirt will keep him at great ease all along. 
+white
+None
+{0: 'blue', 1: 'red', 2: 'white', 3: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+31
+http://www.jabong.com/109F-Sleeve-Less-Solid-Off-White-Top-319891.html
+sleeve less solid off white top
+109°F
+sleeve less solid off white top
+ this season, get the compliments pouring in by wearing this off-white coloured top from 109°f. adding to its visual appeal is the intricate detailing around its neckline and its sleeveless design, while the polyester fabric ascertains total comfort.
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+43
+http://www.jabong.com/@home-Off-White-Pot-Pourri-49195.html
+off white pot pourri
+@home
+off white pot pourri
+ this pot pourri cushion from @home would definitely be a good buy. it is heart-shaped and would surely adorn your living room.
+off white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+44
+http://www.jabong.com/109F-3/4Th-Sleeve-Embroidered-Blue-Tunic-319914.html
+3/4th sleeve embroidered blue tunic
+109°F
+3/4th sleeve embroidered blue tunic
+ featuring a fine embroidery, this blue coloured tunic from the house of 109°f will get you noticed for all the right reasons. made of polyester, this tunic will keep you comfortable throughout the day. this tunic will look best when paired with black coloured leggings.
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+

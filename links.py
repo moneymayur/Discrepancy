@@ -1,0 +1,278 @@
+#!/usr/bin/env python
+
+"""
+When I wrote this, only God and I knew what I was doing.
+Now, only God knows.
+"""
+
+from bs4 import BeautifulSoup
+from urllib2 import urlopen
+import sys
+import nltk
+
+
+
+
+
+stopwords_list = ['a','able','about','across','after','all','almost','also','am','among',
+	             'an','and','any','are','as','at','be','because','been','but','by','can',
+	             'cannot','could','dear','did','do','does','either','else','ever','every',
+	             'for','from','get','got','had','has','have','he','her','hers','him','his',
+	             'how','however','if','in','i','into','is','it','its','just','least','let',
+	             'like','likely','may','me','might','most','must','my','neither','no','nor',
+	           	 'not','of','off','often','on','only','or','other','our','own','rather','said',
+	             'say','says','she','should','since','so','some','than','that','the','their',
+	             'them','then','there','these','they','this','tis','to','too','twas','us',
+	             'wants','was','we','were','what','when','where','which','while','who',
+	             'whom','why','will','with','would','yet','you','your','style','stylish','beautiful','lovely']
+
+color_list = [" purple "," brick red "," brick-red "," aqua blue "," aqua-blue "," light grey "," light-grey "," ice blue "," ice-blue "," navy blue "," navy-blue "," ivory "," violet indigo "," off white "," off-white ",
+			" apricot "," transparent "," camel "," lilac "," emerald "," cream "," silver "," grey milange "," grey-milange ",
+			" charcoal grey "," charcoal-grey "," light blue "," light-blue "," antique silver "," antique-silver "," dark grey "," dark-grey ",
+			" coffee "," firozi "," blue "," green "," golden "," assorted "," rust "," pink "," turquoise "," olive ",
+			" two tone "," two-tone "," grey "," peach "," nude "," sand "," pearl "," red "," copper "," champagne ",
+			" bronze "," brown "," mustard ", " yellow "," multi "," maroon "," neutral "," aqua "," camel shade ",
+			" fuchsia "," beige "," magenta "," khaki "," lemon "," ruby "," black "," lavender "," yellow ",
+			" wine "," cherry "," white "," khakhi "," antique "," mauve "," metal "," tan "," orange "]
+count = 1
+
+error=100
+
+def get_articles(url):
+
+	# try:
+
+		html = urlopen(url).read()						# opens the url and fetch HTML
+		soup = BeautifulSoup(html, "lxml")				# opens HTML to be parsed
+		if  soup.find("span","fs18"):					# checks whether link is live or not
+			file =open('skipped_links.csv','a+')
+			file.write(url)
+		else:	
+			name = soup.find("span","fs11 c222").string.strip('\t\n ').lower()
+			brand_name = soup.find("span","brand-name fs22 full-width").string.strip('\t\n ')
+			name_below_brand = soup.find("span", "mb3 full-width").string.strip('\t\n ').lower()
+			pic_desc =soup.find("div", "fs11 ml50 c999 wid-357 clear")
+			if pic_desc:
+				pic_desc=pic_desc.string.strip('\t\n ').lower()
+			div_data = soup.find("div",{"class":"product-info c999 fs12 mb20"})
+			sizes = soup.find("ul",{"class":"prd-option-collection apw_size prd-size fs11 clrfix"})
+			#print pic_desc
+ 			qq=""
+			if pic_desc:
+				qq=pic_desc.split("size")[1].strip(" ").strip(".")
+
+			for a in div_data.findAll("p"):
+				description = a.text.strip(' ')
+
+			row = div_data.findAll("tr")
+			ss={}
+			
+			ecode = ""
+
+			if sizes and qq is not "":
+				size = sizes.findAll("li")
+				twem = len(size)
+				for i in range(0,twem):
+					ss[i]=size[i].string.strip('\t\n ').lower()
+				if qq not in ss.values():
+					ecode +="Size format mismatch"
+			temp = len(row)
+			description = " " + description 
+			c = count
+			u = url
+			n = name
+			bn = brand_name
+			nbb = name_below_brand
+			de = description.lower()
+			cnt = 0
+			scolo = {}
+			for w in color_list:
+				if w in de:
+					if not scolo:
+						scolo[cnt] = w.strip()
+						cnt+=1
+					else:
+						for mk in range(len(scolo)):
+							if scolo[mk]:
+								if w.strip() not in scolo[mk]:
+									scolo[cnt] = w.strip()
+									cnt+=1
+			
+			if not scolo:
+				scolo = None
+			name = name.split()
+			brand_name = brand_name.split()
+			name_below_brand = name_below_brand.split()
+			description = description.split()
+			# Removing stop words 
+
+			#remove_stopword(description)
+			
+			details={}
+
+			# "DATA IN TABLE"
+			
+			for i in range(0,temp-2):
+				
+				cells=row[i].findAll("td", limit=2)
+				if cells[1].get_text():
+					if cells[0].get_text():
+						details[cells[0].get_text().lower()] = cells[1].get_text().lower()
+			
+			dk = details.keys()
+
+			color = None
+			material = None
+			e_color = None
+			if 'color' in details.keys():
+				color = " " + details['color'] + " "
+			else:
+				ecode = "No Color"
+				color = "No Color"
+
+			if 'material' in details.keys():
+				material = details['material']
+
+			if name == name_below_brand:
+				global error
+				error = error - 10
+				e_brand  = None
+			else:				
+				e_brand = 'Error in name_below_brand'
+
+			if color in color_list:
+	
+				if color.strip() in name:
+					global error
+					error = error - 10
+				else:
+					e_color = 'No color in Brand Name or there is color mismatch'
+			
+			else:
+				e_color = ' Color not found in colors list'
+			
+			if color.strip() in "multi":
+				scolo = {0: "multi"}
+			if not description:
+				ecode = "Description Not Present"
+			if scolo:
+				if color.strip() not in scolo.values():
+					if color.strip().replace(" ","-") not in scolo.values():
+						ecode += " Color format error in desc"
+					else:
+						ecode += " Color mismatch in description"
+			else:
+				ecode += " No color in description"
+			
+			ar=['set of','pack of','combo of']
+			ar1=['suit set']
+			for mm in ar:
+				col = None 
+				if mm.lower() in de:
+					k = len(mm)
+					d=de.index(mm)+k
+					col =  de[d+1]
+				if col:
+				  	if col.isdigit():
+						if 'package contents' in details.keys():
+							if col not in details['package contents']:
+								ecode +=" Error in Package Contents"
+						else:
+							ecode+=" Package contents absent"
+			
+			for me in ar1:
+				if me in de:
+					if 'package contents' in details.keys():
+						bb=1
+					else:
+						ecode+="Package contents absent"
+
+			
+
+			if ecode:
+				print c
+				print u.encode('utf-8')
+				print n.encode('utf-8')
+				print bn.encode('utf-8')
+				print nbb.encode('utf-8')
+				print de.encode('utf-8')
+				print color.strip()
+				print material
+				print scolo
+				print ecode
+				if e_brand:
+					print e_brand
+				if e_color:
+					print e_color
+				print "_____________________________________________________________________________________________\n"
+
+		
+
+	#except:
+			
+	#	print "skipped link number:", count
+	#		
+	#	file =open('skipped_links.csv','a+')
+	#	file.write(url)
+		#	pass
+
+def remove_stopword(data):
+	
+	data = data.encode('utf-8')
+	data = data.split()
+	desc = ""
+	for word in data:
+		if word.lower() not in stopwords:
+				desc = desc + ' ' + word.lower()
+
+	desc = nltk.word_tokenize(desc)
+
+	#fdisc = nltk.FreqDist(desc)
+
+	#fdisc.freq(colours)
+	#print fdisc
+	
+	#print nltk.pos_tag(data)
+
+	#tagged = nltk.pos_tag(data)
+	#propernouns = [word for word,pos in tagged if pos == 'NN']
+	#print propernouns
+
+
+
+while(1):
+
+	url = raw_input()
+	get_articles(url)
+	
+	count=count+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__name__ == "__main__"

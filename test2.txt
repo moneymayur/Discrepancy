@@ -1,0 +1,1300 @@
+1
+http://www.jabong.com/612-ivy-league-Green-T-Shirts-536966.html
+Green T Shirts
+612 Ivy League
+Green T Shirts
+Check out this green coloured T-shirt from 612 Ivy League that will lend your little son a stylish casual look. Featuring a funky print on the front, this half-sleeved T-shirt will look good with blue jeans or shorts. Made from 100% cotton, this regular-fit T-shirt will keep him at great ease all along. 
+[u'blue', u'green']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+2
+http://www.jabong.com/612-ivy-league-Khaki-Jamaicans-536946.html
+Khaki Jamaicans
+612 Ivy League
+Khaki Jamaicans
+To upgrade the wardrobe of your little master, this pair of khaki coloured Jamaicans from 612 Ivy League is a great pick. This pair of trendy Jamaicans will allow your little champ to stay in vogue. Made from 100% cotton.
+[u'khaki']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+khaki
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+3
+http://www.jabong.com/612-ivy-league-Navy-Blue-Dress-536875.html
+Navy Blue Dress
+612 Ivy League
+Navy Blue Dress
+A perfect pick for your little princess, this navy blue coloured dress from 612 Ivy League will lend her a stylish look. Made from 100% cotton, this regular-fit dress  is comfortable to wear all day long.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+navy blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+4
+http://www.jabong.com/612-ivy-league-Navy-Blue-Jamaicans-536956.html
+Navy Blue Jamaicans
+612 Ivy League
+Navy Blue Jamaicans
+Keep him comfortable when he's on the go in these navy blue coloured Jamaicans from 612 Ivy League. Perfect for fair weather strolls, these 100% cotton Jamaicans can be styled with a button-down shirt for a peppy look.
+[u'blue']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+navy blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+5
+http://www.jabong.com/612-ivy-league-Navy-Blue-T-Shirts-536968.html
+Navy Blue T Shirts
+612 Ivy League
+Navy Blue T Shirts
+Make your kid shine amongst his friends in this navy blue coloured T-shirt from 612 Ivy League. Made from 100% cotton, this attractive T-shirt ensures breathability and will look good with shorts or jeans.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+navy blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+6
+http://www.jabong.com/612-ivy-league-Navy-Blue-T-Shirts-536984.html
+Navy Blue T Shirts
+612 Ivy League
+Navy Blue T Shirts
+Make your little master look stylish by letting him wear this navy blue coloured T-shirt from 612 Ivy League. Not only is it superbly comfortable, it is high on trend appeal that makes it a perfect piece for a fun-filled evening.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+navy blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+7
+http://www.jabong.com/612-ivy-league-Orange-Tops-536882.html
+Orange Tops
+612 Ivy League
+Orange Tops
+A charmingly trendy look awaits your little darling on the other side of wearing this orange coloured top from 612 Ivy League. While its trendy print will make her look stylish, the 100% cotton material will ensure that she stays comfortable throughout the day.
+[u'orange']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+orange
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+8
+http://www.jabong.com/612-ivy-league-Pink-Tops-536874.html
+Pink Tops
+612 Ivy League
+Pink Tops
+Your little angel will become the cynosure of all eyes by wearing this pink coloured top from 612 Ivy League . Made from 100% cotton, this attractive top ensures breathability and can be best teamed with a skirt and belly shoes.
+[u'pink']
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'type', u'wash care']
+pink
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+9
+http://www.jabong.com/612-ivy-league-Blue-T-Shirts-536983.html
+Blue Polo T-Shirt
+612 Ivy League
+Blue Polo T-Shirt
+Make your kid shine amongst his friends when he wears this blue coloured T-shirt from 612 Ivy League. Not only is it superbly comfortable, it is high on trend appeal that makes it a perfect piece for a fun-filled evening.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+10
+http://www.jabong.com/612-ivy-league-Blue-T-Shirts-536991.html
+Blue Polo T-Shirt
+612 Ivy League
+Blue Polo T-Shirt
+Let your little boy flaunt a look that is a perfect mix of cool and casual when wears this blue coloured T-shirt from 612 Ivy League. Comfortable to wear all day long, this T-shirt is made from 100% cotton that is soft against the skin.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+11
+http://www.jabong.com/612-ivy-league-Pink-Tunic-Dress-536813.html
+Pink Tunic Dress
+612 Ivy League
+Pink Tunic Dress
+Dress up your little angel in this pink coloured tunic dress and make her look pretty. This dress from 612 Ivy League featuring an eye-catching striped pattern is perfect for casual occasions. Made from 100% cotton, this regular-fit dress for girls is light in weight and will keep your daughter at utmost comfort.   
+[u'pink']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+pink
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+12
+http://www.jabong.com/612-ivy-league-Red-T-Shirts-536965.html
+Red T Shirts
+612 Ivy League
+Red T Shirts
+Let your little boy flaunt a perfect mix of cool and casual looks in this red coloured T-shirt from 612 Ivy League. Crafted using 100% cotton, this T-shirt promises utmost comfort for your little master when he is out for mischiefs.
+[u'red']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+red
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+13
+http://www.jabong.com/612-ivy-league-Dark-Grey-Capris-536843.html
+Dark Grey Capris
+612 Ivy League
+Dark Grey Capris
+Your little princess will look smart in these dark grey coloured capris from 612 Ivy League. The beautiful floral print will lend her a look worth flaunting. Made from 100% cotton, these regular-fit capris can be comfortably worn all day long. These capris will go well with a contrast coloured top.
+[u'grey']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+dark grey
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+14
+http://www.jabong.com/612-ivy-league-Green--Dress-536816.html
+Green  Dress
+612 Ivy League
+Green  Dress
+Your little fashionista will certainly look adorable wearing this green coloured dress from 612 Ivy League. Pair this pretty dress with white belly shoes and a matching headband to complete her trendy look. Made from 100% cotton, this regular-fit dress is soft against the skin and fine in quality. 
+[u'white', u'green']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+15
+http://www.jabong.com/612-ivy-league-Green-Shirts-537012.html
+Green Shirts
+612 Ivy League
+Green Shirts
+Stylish and classy, this green coloured shirt from 612 Ivy League will make a great addition to your son’s wardrobe. Featuring checks, this trendy shirt will instantly deck up his look. Made from 100% cotton, this regular-fit shirt will keep him comfortable as well.
+[u'green']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+16
+http://www.jabong.com/612-ivy-league-Green-Tops-536895.html
+Green Tops
+612 Ivy League
+Green Tops
+Your little angel will become the cynosure of all eyes by wearing this green coloured top from 612 Ivy League. Not only is it superbly comfortable, it is high on trend appeal that makes it a perfect one for a fun-filled evening.
+[u'green']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+17
+http://www.jabong.com/612-ivy-league-Red-Tunic-Dress-536807.html
+Red Tunic Dress
+612 Ivy League
+Red Tunic Dress
+Blooming with the vibrancy of floral prints, this beautiful red coloured dress from 612 Ivy League makes for a charming gift for your little darling. Not just visually pleasing, this regular-fit dress offers the best in comfort too, courtesy its cotton fabric.
+[u'red']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+red
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+18
+http://www.jabong.com/612-ivy-league-Red-Tunic-Dress-536815.html
+Red Tunic Dress
+612 Ivy League
+Red Tunic Dress
+Fashionably adorable is what your little darling will look when she wears this beautiful red coloured dress from 612 Ivy League. The charming design lends this regular-fit dress its visual appeal, while the cotton fabric assures pure comfort.
+[u'red']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+red
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+19
+http://www.jabong.com/612-ivy-league-Multi-Jamaicans-536939.html
+Multi Jamaicans
+612 Ivy League
+Multi Jamaicans
+612 Ivy League presents these multi coloured Jamaicans, which will make your little one look cool and trendy. Made of 100% cotton, these Jamaicans for boys are comfortable to wear and skin friendly as well. Featuring regular fit, these Jamaicans are an ideal pick!
+[u'multi']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+20
+http://www.jabong.com/612-ivy-league-Multi-Shirts-537014.html
+Multi Shirts
+612 Ivy League
+Multi Shirts
+Make your dear son look smart and stylish wearing this multicoloured shirt from 612 Ivy League. Featuring front pockets and check pattern all over, this woven shirt will look equally good with jeans and shorts. Made from 100% cotton, this regular-fit shirt will be soft against his skin and comfortable to wear as well. 
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+21
+http://www.jabong.com/612-ivy-league-White-T-Shirts-536978.html
+White T Shirts
+612 Ivy League
+White T Shirts
+Check out this white coloured T-shirt from 612 Ivy League that will lend your little son a stylish casual look. Featuring red coloured stripes on a white base, this half-sleeved T-shirt will look good with blue jeans or shorts. Made from 100% cotton, this regular-fit T-shirt will keep him at great ease all along. 
+[u'blue', u'white', u'red']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+22
+http://www.jabong.com/612-ivy-league-White-T-Shirts-536987.html
+White Polo T-Shirt
+612 Ivy League
+White Polo T-Shirt
+Make your boy look adorably graceful by letting him wear this white coloured T-shirt from 612 Ivy League. While its trendy print will make him look stylish, the 100% cotton material will ensure that he stays comfortable throughout the day.
+[u'white']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+23
+http://www.jabong.com/612-ivy-league-White-Tunic-Dress-536821.html
+White Tunic Dress
+612 Ivy League
+White Tunic Dress
+For your dear daughter who is fond of floral prints, this white coloured dress from 612 Ivy League is an ideal pick. Featuring a round neck and a colourful print all over, this dress will lend her a stylish casual look. Made from 100% polyester, this regular-fit dress has a fabulous finish and is comfortable to wear as well. 
+[u'white']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+24
+http://www.jabong.com/612-ivy-league-Yellow-Capris-536844.html
+Yellow Capris
+612 Ivy League
+Yellow Capris
+Let your li’l one look playfully preppy when she wears these yellow coloured capris from 612 Ivy League. Destined to be a wardrobe staple, these capris are fashioned using 100% cotton, which will keep her comfortable all day long.
+[u'yellow']
+[u'fabric', u'fit', u'color', u'length', u'type', u'wash care']
+yellow
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+25
+http://www.jabong.com/612-ivy-league-Yellow-Tops-536894.html
+Yellow Tops
+612 Ivy League
+Yellow Tops
+Make your daughter look like a style diva wearing this yellow coloured top from 612 Ivy League. Pair this regular-fit top with jeans or capris while taking her out for shopping.
+[u'yellow']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+yellow
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+26
+http://www.jabong.com/612-ivy-league-Yellow-T-Shirts-536980.html
+Yellow Polo T-Shirt
+612 Ivy League
+Yellow Polo T-Shirt
+Let your little boy flaunt a look that is a perfect mix of cool and casual when wears this yellow coloured T-shirt from 612 Ivy League. While its trendy print will make him look stylish, the 100% cotton material will ensure that he stays comfortable throughout the day.
+[u'yellow']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+yellow
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+27
+http://www.jabong.com/612-ivy-league-Yellow-Tunic-Dress-536830.html
+Yellow Tunic Dress
+612 Ivy League
+Yellow Tunic Dress
+Blooming with the vibrancy of floral prints, this beautiful yellow dress from 612 Ivy League makes for a charming gift for your little darling. Not just visually pleasing, this regular-fit dress offers the best in comfort too, courtesy its cotton fabric.
+[u'yellow']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+yellow
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+28
+http://www.jabong.com/109F-3/4Th-Sleeve-Stripe-Blue-Tunic-319925.html
+3/4Th Sleeve Stripe Blue Tunic
+109°F
+3/4Th Sleeve Stripe Blue Tunic
+Let this season see you grace your wardrobe with this beautiful blue tunic from 109°F. The modish stripe pattern, coupled with trendy 3/4th sleeves, makes it visually enticing, while the viscose fabric promises to offer sheer comfort.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+29
+http://www.jabong.com/109F-Sleeve-Less-Solid-Black-Top-319892.html
+Sleeve Less Solid Black Top
+109°F
+Sleeve Less Solid Black Top
+Looking for a perfect birthday gift for your best friend? Consider this black top from 109°F that will fit the bill. A perfect blend of style and comfort, this sleeveless top features an attractive design along the round neck. Made from polyester, this regular-fit top will keep you cool and comfortable all along. 
+[u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+black
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+30
+http://www.jabong.com/109F-Sleeve-Less-Embroidered-Green-Top-319934.html
+Sleeve Less Embroidered Green Top
+109°F
+Sleeve Less Embroidered Green Top
+Intricate embroidery and a charming green colour make this beautiful top from 109°F an apt pick to look modishly gorgeous at any casual occasion. Visual appeal aside, it also provides superb comfort because of its polyester fabric.
+[u'green']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+31
+http://www.jabong.com/109F-Sleeve-Less-Solid-Off-White-Top-319891.html
+Sleeve Less Solid Off White Top
+109°F
+Sleeve Less Solid Off White Top
+This season, get the compliments pouring in by wearing this off-white coloured top from 109°F. Adding to its visual appeal is the intricate detailing around its neckline and its sleeveless design, while the polyester fabric ascertains total comfort.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+off white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+32
+http://www.jabong.com/10th-planet-Black-Sling-Bag-661587.html
+Black Sling Bag
+10th Planet
+Black Sling Bag
+10th Planet presents this black coloured sling bag, which will increase your glam quotient like never before. Made of PU (polyurethane), this sling bag is quite durable, tough and light in weight. This sling bag will perfectly complement your casuals.
+[u'black']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+33
+http://www.jabong.com/10th-planet-Blue-Handbag-661558.html
+Blue Handbag
+10th Planet
+Blue Handbag
+Complete your sophisticated appearance by carrying this blue coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'blue']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+blue
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+34
+http://www.jabong.com/10th-planet-Black-Handbag-661571.html
+Black Handbag
+10th Planet
+Black Handbag
+Complete your sophisticated appearance by carrying this black coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'black']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+35
+http://www.jabong.com/10th-planet-Pink-Sling-Bag-661582.html
+Pink Sling Bag
+10th Planet
+Pink Sling Bag
+10th Planet presents this pink coloured sling bag, which will increase your glam quotient like never before. Made of PU (polyurethane), this sling bag is quite durable, tough and light in weight. This sling bag will perfectly complement your casuals.
+[u'pink']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+pink
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+36
+http://www.jabong.com/10th-planet-Green-Handbag-661574.html
+Green Handbag
+10th Planet
+Green Handbag
+Complete your sophisticated appearance by carrying this green coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'green']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+green
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+37
+http://www.jabong.com/10th-planet-Pink-Handbag-661539.html
+Pink Handbag
+10th Planet
+Pink Handbag
+Complete your sophisticated appearance by carrying this pink coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'pink']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+pink
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+38
+http://www.jabong.com/10th-planet-Pink-Handbag-661548.html
+Pink Handbag
+10th Planet
+Pink Handbag
+Complete your sophisticated appearance by carrying this pink coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'pink']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+pink
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+39
+http://www.jabong.com/10th-planet-Yellow-Handbag-661545.html
+Yellow Handbag
+10th Planet
+Yellow Handbag
+Complete your sophisticated appearance by carrying this yellow coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'yellow']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+yellow
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+40
+http://www.jabong.com/10th-planet-Red-Handbag-661575.html
+Red Handbag
+10th Planet
+Red Handbag
+Complete your sophisticated appearance by carrying this red coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'red']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+red
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+41
+http://www.jabong.com/10th-planet-Tan-Handbag-661570.html
+Tan Handbag
+10th Planet
+Tan Handbag
+Complete your sophisticated appearance by carrying this tan coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'tan']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+tan
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+42
+http://www.jabong.com/@home-Multi-Pot-Pourri-49194.html
+Multi Pot Pourri
+@home
+Multi Pot Pourri
+Fill the atmosphere of your house or office with @Home! Potpourris have been created to spread mild, herbal fragrances around you. These are packed in glass-bowls or sheer fabric. @Home presents this bowl of potpourri draped with a beautiful, red coloured fabric, tied with a red ribbon, crafted in the shape of a rose. The glitter and packaging makes this item not only a treasure to enjoy the aroma of, but also to look at.
+[u'red']
+[u'color', u'type', u'size']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+43
+http://www.jabong.com/@home-Off-White-Pot-Pourri-49195.html
+Off White Pot Pourri
+@home
+Off White Pot Pourri
+This pot pourri cushion from @Home would definitely be a good buy. It is heart-shaped and would surely adorn your living room.
+[]
+[u'color', u'type', u'size']
+off white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+44
+http://www.jabong.com/109F-3/4Th-Sleeve-Embroidered-Blue-Tunic-319914.html
+3/4Th Sleeve Embroidered Blue Tunic
+109°F
+3/4Th Sleeve Embroidered Blue Tunic
+Featuring a fine embroidery, this blue coloured tunic from the house of 109°F will get you noticed for all the right reasons. Made of polyester, this tunic will keep you comfortable throughout the day. This tunic will look best when paired with black coloured leggings.
+[u'blue', u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+45
+http://www.jabong.com/109F-Mega-Sleeves-Embroidered-Red-Tunic-319888.html
+Mega Sleeves Embroidered Red Tunic
+109°F
+Mega Sleeves Embroidered Red Tunic
+Let this season see you grace your wardrobe with this beautiful red coloured tunic from 109°F. The exquisite embroidery, coupled with trendy mega sleeves, makes it visually enticing, while the cotton fabric promises to offer sheer comfort.
+[u'red']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+red
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+46
+http://www.jabong.com/109F-Puffed-Sleeve-Printed-Yellow-Top-319901.html
+Puffed Sleeve Printed Yellow Top
+109°F
+Puffed Sleeve Printed Yellow Top
+Get noticed for your distinguished style by wearing this yellow coloured top from 109°F. Featuring a beautiful floral print, it will surely add more charm to your pretty look. This polyester top promises all-day comfort.
+[u'yellow']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+yellow
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+47
+http://www.jabong.com/10th-planet-Beige-Handbag-661569.html
+Beige Handbag
+10th Planet
+Beige Handbag
+Complete your sophisticated appearance by carrying this beige coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'beige']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+beige
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+48
+http://www.jabong.com/10th-planet-Brown-Handbag-661544.html
+Brown Handbag
+10th Planet
+Brown Handbag
+Complete your sophisticated appearance by carrying this brown coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'brown']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+brown
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+49
+http://www.jabong.com/10th-planet-Coffee-Handbag-661541.html
+Coffee Handbag
+10th Planet
+Coffee Handbag
+Complete your sophisticated appearance by carrying this coffee coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'coffee']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+coffee
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+50
+http://www.jabong.com/10th-planet-Coffee-Handbag-661573.html
+Coffee Handbag
+10th Planet
+Coffee Handbag
+Complete your sophisticated appearance by carrying this coffee coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'coffee']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+coffee
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+51
+http://www.jabong.com/10th-planet-Coffee-Sling-Bag-661580.html
+Coffee Sling Bag
+10th Planet
+Coffee Sling Bag
+10th Planet presents this coffee coloured sling bag, which will increase your glam quotient like never before. Made of PU (polyurethane), this sling bag is quite durable, tough and light in weight. This sling bag will perfectly complement your casuals.
+[u'coffee']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+coffee
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+52
+http://www.jabong.com/10th-planet-Grey-Handbag-661537.html
+Grey Handbag
+10th Planet
+Grey Handbag
+Complete your sophisticated appearance by carrying this grey coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'grey']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+grey
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+53
+http://www.jabong.com/10th-planet-Pink-Handbag-661538.html
+Pink Handbag
+10th Planet
+Pink Handbag
+Complete your sophisticated appearance by carrying this pink coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'pink']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+pink
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+54
+http://www.jabong.com/10th-planet-Pink-Handbag-661547.html
+Pink Handbag
+10th Planet
+Pink Handbag
+Complete your sophisticated appearance by carrying this pink coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'pink']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+pink
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+55
+http://www.jabong.com/10th-planet-Tan-Sling-Bag-661585.html
+Tan Sling Bag
+10th Planet
+Tan Sling Bag
+10th Planet presents this tan coloured sling bag, which will increase your glam quotient like never before. Made of PU (polyurethane), this sling bag is quite durable, tough and light in weight. This sling bag will perfectly complement your casuals.
+[u'tan']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+tan
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+56
+http://www.jabong.com/18-fire-3/4Th-Sleeve-Printed-Black-Tunic-180748.html
+3/4Th Sleeve Printed Black Tunic
+18 Fire
+3/4Th Sleeve Printed Black Tunic
+Redefine your ethnic style quotient with this black, sleeveless tunic from the house of 18 Fire. Classic print on black and white chiffon and fancy black yoke and frill make this thigh-length tunic a wonderful combination of excellent design and unique craftsmanship. Club it with black leggings, minimalistic jewellery and shoes to exude an irresistible feminine charm as soon as you step out of your house.
+[u'white', u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+black
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+57
+http://www.jabong.com/18-fire-Full-Sleeve-Self-Pattern-Olive-Kurti-306157.html
+Full Sleeve Self Pattern Olive Kurti
+18 Fire
+Full Sleeve Self Pattern Olive Kurti
+Look elegant by wearing this olive coloured kurti from 18 Fire. The beautiful floral print all over makes this kurti just irresistible and an ideal pick to add to your feminine charm. This brocade kurti is a must-have to stay stylish this season. 
+[u'olive']
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'wash care']
+olive
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+58
+http://www.jabong.com/109F-Puffed-Sleeve-Embroidered-Black-Top-319886.html
+Puffed Sleeve Embroidered Black Top
+109°F
+Puffed Sleeve Embroidered Black Top
+Look absolutely stylish wearing this black coloured top from 109°F. Featuring beautiful embroidery, this top looks classy and exclusive. Further, the cotton fabric makes it a perfect buy for summers.
+[u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+black
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+59
+http://www.jabong.com/109F-Ruffle-Sleeves-Embroidered-Beige-Tunic-319906.html
+Ruffle Sleeves Embroidered Beige Tunic
+109°F
+Ruffle Sleeves Embroidered Beige Tunic
+Stylishly designed, this pink coloured top from 109°F will grab your attention instantly. The embroidery around the neckline and on the front looks mesmerising. Made from polyester, this top will ensure maximum comfort. Combine it with black coloured jeans to look your casual best.
+[u'pink', u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+beige
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+60
+http://www.jabong.com/18-fire-Multi-Kurtis-&-Kurtas-510108.html
+Multi Kurtis & Kurtas
+18 Fire
+Multi Kurtis & Kurtas
+For an unexpected update to any outfit as you wear this kurta from the house of 18 Fire. Exclusively designed, this kurta with regular will enhance your curves and soft cotton will keep you comfortable. Team it with contrasting churidar and Kolhapuris to complete your look for the day.
+[]
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'neck']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+61
+http://www.jabong.com/18-fire-Puffed-Sleeve-Embroidered-Blue-Kurti-306159.html
+Puffed Sleeve Embroidered Blue Kurti
+18 Fire
+Puffed Sleeve Embroidered Blue Kurti
+Look effortlessly stylish wearing this blue coloured kurti from the house of 18 Fire. Made from cotton, this kurti is high on comfort. It features a contemporary print and embellished front for a perfect ethnic appeal. Team it with white coloured leggings to complete your ethnic look.  
+[u'blue', u'white']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+62
+http://www.jabong.com/18-fire-Full-Sleeve-Embellished-Black-Kurti-180752.html
+Full Sleeve Embellished Black Kurti
+18 Fire
+Full Sleeve Embellished Black Kurti
+Add a dash of beauty and style with the black coloured kurti from the house of 18 Fire. Chic and trendy, this embellished kurti with quality divided kalis and a heavy beaded neckline on the brocade yoke and hem  will make you look effortlessly stylish. Team it up with white coloured leggings to look like an angel.
+[u'white', u'black']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+black
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+63
+http://www.jabong.com/18-fire-Multi-Kurtis-&-Kurtas-510095.html
+Multi Kurtis & Kurtas
+18 Fire
+Multi Kurtis & Kurtas
+Nail the style of the season when you wear this multicoloured kurta by 18 Fire. Exclusively designed, this kurta with regular will enhance your curves and soft cotton will keep you comfortable. Pair it with matching leggings and sandals to get complimented for your classy choice.
+[]
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'neck']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+64
+http://www.jabong.com/10th-planet-Black-Handbag-661565.html
+Black Handbag
+10th Planet
+Black Handbag
+Complete your sophisticated appearance by carrying this black coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'black']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+65
+http://www.jabong.com/10th-planet-Black-Sling-Bag-661578.html
+Black Sling Bag
+10th Planet
+Black Sling Bag
+10th Planet presents this black coloured sling bag, which will increase your glam quotient like never before. Made of PU (polyurethane), this sling bag is quite durable, tough and light in weight. This sling bag will perfectly complement your casuals.
+[u'black']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+66
+http://www.jabong.com/18-fire-Multi-Kurtis-&-Kurtas-510100.html
+Multi Kurtis & Kurtas
+18 Fire
+Multi Kurtis & Kurtas
+Take a more relaxed approach towards fashion when you wear this multicoloured kurta by 18 Fire. Look classy and stylish in this piece and revel in the comfort of the soft cotton fabric. The dupatta and salwar will further accentuate your ethnic look.
+[]
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'neck']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+67
+http://www.jabong.com/18-fire-Multi-Kurtis-&-Kurtas-510101.html
+Multi Kurtis & Kurtas
+18 Fire
+Multi Kurtis & Kurtas
+If versatality is your game wearing this multicoloured kurta by 18 Fire. Made from cotton, this kurta is light in weight and perfect for daily wear. Team it with a salwar or churidar in lighter or brighter hues to create a contrasting effect.
+[]
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'neck']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+68
+http://www.jabong.com/18-fire-Sleeve-Less-Embroidered-Multi-Kurti-194355.html
+Sleeve Less Embroidered Multi Kurti
+18 Fire
+Sleeve Less Embroidered Multi Kurti
+This gorgeous kurta from 18 Fire exhibits creativity at its best. The lace detailing on this kurta make it an exclusive addition to your closet while the embroidery on the yoke further adds oodles of charm to this creation. The pleated front adds flare to this kurta and makes it a smart pick for small family functions. Pair this with matching leggings and look charming.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+69
+http://www.jabong.com/18-fire-Sleeve-Less-Embroidered-Purple-Kurti-306162.html
+Sleeve Less Embroidered Purple Kurti
+18 Fire
+Sleeve Less Embroidered Purple Kurti
+Perfect for regular wear, this purple coloured kurti from the latest collection of 18 Fire will not fail to catch your attention at the first glance. Featuring a striking embroidery work and a stylish neckline, this one looks extremely classy. Made from breathable cotton, it will also keep you fresh the entire day.
+[u'purple']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+purple
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+70
+http://www.jabong.com/18-fire-Short-Sleeve-Embroidered-Grey-Tunic-180768.html
+Short Sleeve Embroidered Grey Tunic
+18 Fire
+Short Sleeve Embroidered Grey Tunic
+Be the gorgeous ethnic diva of your group by donning this grey coloured tunic from 18 Fire. A fusion garment, it will invigorate your casual look with a western look and feel. Pair this tunic with blue leggings and junk jewellery for a knockout look.
+[u'blue', u'grey']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+grey
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+71
+http://www.jabong.com/18-fire-Sleeve-Less-Embellished-Green-Kurti-180820.html
+Sleeve Less Embellished Green Kurti
+18 Fire
+Sleeve Less Embellished Green Kurti
+Invigorate your regular ethnic look while dressing laid-back and stylish with this green kurti from 18 Fire. Styled with a slit design, floral patch work and a beautiful asymmetric neckline, this cotton-crafted beauty will adorn and grace your femininity. Pair this kurti with beige coloured leggings and matching accessories for a complete look.
+[u'green', u'beige']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+green
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+72
+http://www.jabong.com/10th-planet-Blue-Handbag-661543.html
+Blue Handbag
+10th Planet
+Blue Handbag
+Complete your sophisticated appearance by carrying this blue coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'blue']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+blue
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+73
+http://www.jabong.com/10th-planet-Blue-Handbag-661572.html
+Blue Handbag
+10th Planet
+Blue Handbag
+Complete your sophisticated appearance by carrying this blue coloured handbag for women from 10th Planet. Spacious enough, this handbag will accommodate all your essentials with ease. Made from PU (polyurethane), this handbag exhibits a fine finish and is soft to touch.
+[u'blue']
+[u'type of closure', u'color', u'product dimensions', u'material', u'no. of zips', u'no. of pockets', u'usp']
+blue
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+74
+http://www.jabong.com/18-fire-Sleeve-Less-Pleated-Multi-Kurti-180795.html
+Sleeve Less Pleated Multi Kurti
+18 Fire
+Sleeve Less Pleated Multi Kurti
+Fusion of ethnic and trendy at its best! This multicoloured kurti from 18 Fire will add great style to your trendy dressing sense. Featuring an array of subtle colours and beautifully pleated pattern, this ethnic wear will adorn your look with its enticing charm.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+75
+http://www.jabong.com/18-fire-Sleeve-Less-Pleated-Multi-Kurti-180852.html
+Sleeve Less Pleated Multi Kurti
+18 Fire
+Sleeve Less Pleated Multi Kurti
+The beautiful colour combination of this kurti from the house of 18 Fire will definitely make you look more charming and elegant. Featuring fine embroidery along with clean patch work, this kurti will be a perfect choice to be worn at work.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+76
+http://www.jabong.com/18-fire-Sleeve-Less-Embroidered-Multi-Kurti-180834.html
+Sleeve Less Embroidered Multi Kurti
+18 Fire
+Sleeve Less Embroidered Multi Kurti
+No matter how flooded your closet is, you would still want to buy this graceful kurti from 18 Fire. Featuring fine patchwork and embroidery, this vibrant kurti will make a great choice for everyday wear. Just wear it with a beige coloured churidar that will bring out a beautiful contrast.
+[u'beige']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+77
+http://www.jabong.com/18-fire-Sleeve-Less-Pleated-Multi-Kurti-194363.html
+Sleeve Less Pleated Multi Kurti
+18 Fire
+Sleeve Less Pleated Multi Kurti
+Look charmingly gorgeous at the next festive occasion wearing this beautiful multicoloured kurti from 18 Fire. The beautiful pleats, along with the exquisite patchwork, will add to your feminine appeal. Further, the cotton fabric ensures that it is comfortable to wear all day long.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+78
+http://www.jabong.com/18-fire-Sleeve-Less-Printed-Blue-Kurti-306175.html
+Sleeve Less Printed Blue Kurti
+18 Fire
+Sleeve Less Printed Blue Kurti
+Accentuate your feminine charm wearing this trendy blue coloured kurta from the latest collection of 18 Fire. Featuring an amazing print all over and a stylish neckline, this kurta will make you look gorgeous in no time. Also, its soft cotton fabric will keep you relaxed the entire day.
+[u'blue']
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+blue
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+79
+http://www.jabong.com/18-fire-Sleeve-Less-Printed-Grey-Kurti-180797.html
+Sleeve Less Printed Grey Kurti
+18 Fire
+Sleeve Less Printed Grey Kurti
+
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+grey
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+80
+http://www.jabong.com/18-fire-Sleeve-Less-Printed-Multi--Kurti-306172.html
+Sleeve Less Printed Multi  Kurti
+18 Fire
+Sleeve Less Printed Multi  Kurti
+To look distinctively charming, this multicoloured kurta from 18 Fire is a must-have. This kurta is beautifully designed to leave onlookers mesmerised. The print all over is unique and eye-catching. Wear this cotton kurta to embrace maximum comfort.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+81
+http://www.jabong.com/18-fire-Sleeve-Less-Printed-White-Kurti-180830.html
+Sleeve Less Printed White Kurti
+18 Fire
+Sleeve Less Printed White Kurti
+Brighten up your everyday look with this trendy kurti from 18 Fire. Featuring a vibrant print, this kurti will make for a great everyday wear option. Not to forget, the attached macrame jacket adds a layered affect to it.
+[]
+[u'fabric', u'fit', u'color', u'length', u'sleeves', u'wash care']
+white
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+82
+http://www.jabong.com/18-fire-Sleeve-Less-Washed-Grey-Kurtis-362193.html
+Sleeve Less Washed Grey Kurtis
+18 Fire
+Sleeve Less Washed Grey Kurtis
+Grey coloured kurti for girls by 18 Fire. Made from cotton this knee length, sleeve less kurti has round neck. It comes in regular fit.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+grey
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+83
+http://www.jabong.com/18-fire-Sleeve-Less-Washed-Multi-Kurtis-362185.html
+Sleeve Less Washed Multi Kurtis
+18 Fire
+Sleeve Less Washed Multi Kurtis
+Multi coloured kurti for girls by 18 Fire. Made from cotton this knee length, sleeve less kurti has round neck. It comes in regular fit.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+84
+http://www.jabong.com/18-fire-Sleeve-Less-Washed-Multi-Kurtis-362186.html
+Sleeve Less Washed Multi Kurtis
+18 Fire
+Sleeve Less Washed Multi Kurtis
+Multi coloured kurti for girls by 18 Fire. Made from cotton this knee length, sleeve less kurti has round neck. It comes in regular fit.
+[]
+[u'fabric', u'fit', u'color', u'neck', u'length', u'sleeves', u'type', u'wash care']
+multi
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+85
+http://www.jabong.com/2go-active-gear-usa-Black-Shorts-263200.html
+Black Shorts
+2GO ACTIVE GEAR USA
+Black Shorts
+Designed for men who undertake rigorous workout or fitness sessions every day, these black coloured ‘Beckham’ shorts from 2go Active Gear USA are a great pick. Made from cotton, these shorts will keep you comfortable and sweat free. Just team these shorts with a T-shirt and sports shoes. 
+[u'black']
+[u'color', u'type', u'fabric', u'fit']
+black
+lol
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+86
+http://www.jabong.com/3-mad-chicks-Black/White/Multi-Color-Sling-Bag-665654.html
+Black/White/Multi Color Sling Bag
+3 Mad Chicks
+Black/White/Multi Color Sling Bag
+As chic and trendy as you is this beautiful black coloured sling bag from 3 MAD CHICKS. Not only does this women’s sling bag have copious space for all your beauty and hygiene essentials, but is also long-lasting and easy to maintain, courtesy its PU (polyurethane) body.
+[u'black']
+[u'number of compartments', u'extra handle', u'product dimensions', u'material', u'no. of zips', u'color', u'no. of pockets', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+87
+http://www.jabong.com/3-mad-chicks-Black/White-Sling-Bag-369031.html
+Black/White Sling Bag
+3 Mad Chicks
+Black/White Sling Bag
+If you have an eye for quirky accessories, then this black sling bag from 3 MAD CHICKS will surely find a place in your accessory collection. Creatively designed, this sling bag features a chain sling and an illustration of playing cards suit symbols for added attraction. Made from PU (polyurethane), it has an excellent finish and is durable as well.
+[u'black']
+[u'color', u'product dimensions', u'material', u'usp']
+black
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+88
+http://www.jabong.com/3-mad-chicks-Blue-Sling-Bag-565356.html
+Blue Sling Bag
+3 Mad Chicks
+Blue Sling Bag
+If you prefer to carry elegant accessories, then this blue coloured sling bag for women from 3 MAD CHICKS will be an excellent pick for you. Featuring rivet detailing and quilt design, this sling bag will go well with casual dresses. Made from PU (polyurethane), it is a worthy option to invest in. This sling bag features a main compartment and a shoulder strap. 
+[u'blue']
+[u'number of compartments', u'extra handle', u'product dimensions', u'material', u'no. of zips', u'color', u'no. of pockets', u'usp']
+blue
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand
+89
+http://www.jabong.com/3-mad-chicks-Brown/Green/Orange-Shoulder-Bag-681953.html
+Brown/Green/Orange Shoulder Bag
+3 Mad Chicks
+Brown/Green/Orange Shoulder Bag
+3 MAD CHICKS offers this stylish, brown coloured handbag that will get you noticed for all the right reasons!  Featuring twin grab handles, this classy handbag will blend well with your different outfits. Made from PU (polyurethane), this handbag is lightweight and durable and thus, something you will use for years to come!     
+[u'brown']
+[u'number of compartments', u'extra handle', u'product dimensions', u'material', u'no. of zips', u'color', u'no. of pockets', u'usp']
+brown
+lol
+lol1
+pu
+___________________________________________________________________________________________________________
+
+
+no error in name_below_brand

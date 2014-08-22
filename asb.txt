@@ -1,0 +1,1278 @@
+6
+http://www.jabong.com/cat-Pike-Pocket-Polo-T-Shirt-586059.html
+pike pocket polo t shirt
+Cat
+pike pocket polo t shirt
+ retro is back in style! flaunt the same as you wear this regular-fit t-shirt from the house of cat®. fashioned using polyester, this can be easily worn when heading out for a crazy day ahead with friends. pull up linen trousers and leather flip-flops with this comfortable t-shirt as you head out for a wild outing.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+7
+http://www.jabong.com/cat-Pike-Pocket-Polo-T-Shirt-586060.html
+pike pocket polo t shirt
+Cat
+pike pocket polo t shirt
+ pop champagne and feel like a billionaire wearing this grey coloured regular-fit t-shirt by cat®. the soft texture of polyester and classic stitching make this t-shirt the best option for a brunch. style it with acid washed denim jeans and suede loafers for a casual look with an edge.
+grey
+None
+{0: 'grey', 1: 'champagne'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+9
+http://www.jabong.com/Bossini-White-Sleeveless-Floral-Printed-Top-583487.html
+white sleeveless floral printed top
+Bossini
+white sleeveless floral printed top
+ get rid of the 'regular' look this season as you wear this top from the house of bossini. fashioned using polyester, this top will keep you at comfort all day long. pair this top with black denims to get endless compliments.
+white
+None
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+15
+http://www.jabong.com/boss-orange-Black-Wayfarer-498446.html
+black wayfarer
+Boss Orange
+black wayfarer
+ boss orange presents this pair of black coloured, unisex wayfarers that will be a great purchase to look distinct. this pair of uv-protected wayfarers is a must-have for all to protect their eyes without compromising on style. the acetate frame of this pair makes it durable and so it is worth a pick.
+black
+acetate
+{0: 'black', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+17
+http://www.jabong.com/alvaro-castagnino-Black-&-Grey-Micro-Fiber-Pocket-Square-530141.html
+black & grey micro fiber pocket square
+Alvaro Castagnino
+black & grey micro fiber pocket square
+ an exclusive addition to your accessory collection is this pocket square by alvaro castagnino that features a wonderful combination of black and grey hues. made from fine microfibre fabric, it will lend a perfect finishing touch to your formal ensemble.
+black
+None
+{0: 'grey', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+23
+http://www.jabong.com/bombay-high-3/4Th-Sleeve-Checks-Multi-Shirt-163727.html
+3/4th sleeve checks multi shirt
+Bombay high
+3/4th sleeve checks multi shirt
+ chic and trendy, this shirt from the house of bombay high is an ideal buy. made of cotton, this shirt ensures maximum comfort and exceptional style. pair this shirt with grey coloured trousers and black heels to get that complete look.
+multi
+None
+{0: 'multi'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+27
+http://www.jabong.com/bombay-high-3/4Th-Sleeve-Solid-Blue-Dress-163721.html
+3/4th sleeve solid blue dress
+Bombay high
+3/4th sleeve solid blue dress
+ unconventionally designed, this solid blue dress from bombay high will surely lend you an ultra modern look this season. the contrasting white flowers on top and bell-styled sleeves give this dress an alluring look. team up this dress high-heel belly shoes to step out in style.
+blue
+None
+{0: 'blue', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+28
+http://www.jabong.com/bombay-high-3/4Th-Sleeve-Solid-Brown-Shirt-172965.html
+3/4th sleeve solid brown shirt
+Bombay high
+3/4th sleeve solid brown shirt
+ the tag of ‘sexy chick in town’ can now be easily won donning this uber-cool, brown coloured shirt from bombay high. crafted from pure cotton fabric, this shirt ensures impeccable comfort and cosiness throughout the day while the lovely buttoned placket coupled with two covered pockets on the front will lend you the trendiest look. team up this shirt with blue denims for a dandy look.
+brown
+None
+{0: 'blue', 1: 'brown'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+33
+http://www.jabong.com/bombay-high-Full-Sleeve-Stripes-Blue-Shirt-163750.html
+full sleeve stripes blue shirt
+Bombay high
+full sleeve stripes blue shirt
+ if you want to add some colours to your formal wardrobe, then this shirt from bombay high is all you need. this blue and pink coloured shirt will not only give you an elegant and sophisticated look, but will also add zing to your overall appearance. team it up with black coloured slim-fit trousers to look chic.
+blue
+None
+{0: 'blue', 1: 'pink', 2: 'black', 3: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+35
+http://www.jabong.com/boss-orange-Bo0155/S-6Qvhd-Grey-Round-643265.html
+bo0155/s 6qvhd grey round
+Boss Orange
+bo0155/s 6qvhd grey round
+ stylish and durable, these grey coloured sunglasses from boss orange will be an ultimate pick for your accessory collection. made from sheet, these unisex sunglasses featuring a round frame are fine in quality and a worthy investment. further, these full-rim sunglasses have uv-protected lenses. 
+grey
+sheet
+{0: 'grey', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+36
+http://www.jabong.com/boss-orange-Bo0156/S-R813U-Yellow/Gun-Metal-Aviator-610587.html
+bo0156/s r813u yellow/gun-metal aviator
+Boss Orange
+bo0156/s r813u yellow/gun-metal aviator
+ check out these grey coloured sunglasses from boss orange that are all you need to look smart and stylish. designed for the contemporary man, these sunglasses have a full rim and uv-protected lenses for great ease under the sunlight. made from metal, these sunglasses have a fabulous finish and score high on durability. 
+yellow
+metal
+{0: 'grey', 1: 'orange'}
+ More than one color present Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+39
+http://www.jabong.com/cat-Solid-Grey-Polo-T-Shirt-556355.html
+solid grey polo t shirt
+Cat
+solid grey polo t shirt
+ while the mercury rises, staying stylish can become quite a challenging task! understanding the same, caterpillar offers this trendy grey coloured polo t-shirt that will keep you both fashionable and comfortable. made from cotton, this regular-fit t-shirt is soft against skin and thus, worth including in your summer wardrobe.       
+grey
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+53
+http://www.jabong.com/cat-Transformation-T-Shirt-586063.html
+transformation t shirt
+Cat
+transformation t shirt
+ fall in love with the soft texture as you wear this slim-fit t-shirt from the house of cat®. your skin will love the feel of this t-shirt as it is fashioned using the material that is famous for comfort – cotton. style it with acid washed denim jeans and suede loafers for a casual look with an edge.
+olive
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+54
+http://www.jabong.com/boss-orange-Grey/Black-Cateyes-556958.html
+grey/black cateyes
+Boss Orange
+grey/black cateyes
+ cateye sunglasses will never fail to impress you. check out these grey coloured cateye sunglasses from boss orange that will add a new twist to your look. protecting your eyes from harmful sunrays, these full-rim sunglasses feature an acetate frame. these sunglasses are lightweight.
+grey
+acetate
+{0: 'grey', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+55
+http://www.jabong.com/boss-orange-Grey/Grey-Cateyes-556940.html
+grey/grey cateyes
+Boss Orange
+grey/grey cateyes
+ boss orange offers these stylish, grey coloured cateye sunglasses that are something every fashion-forward woman must possess!  featuring impact-resistant polycarbonate lenses, these full-rim sunglasses are lightweight and have an excellent finish. truly worthwhile, these uv-protected sunglasses will protect your eyes from those torturous sunrays.    
+grey
+polycarbonate
+{0: 'grey', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+62
+http://www.jabong.com/brandley-Blue-Running-Shoes-592855.html
+blue running shoes
+BRANDLEY
+blue running shoes
+ flaunt a bright and appealing look during workout sessions by wearing this pair of blue coloured running shoes for men from brandley. the yellow coloured eva (ethylene vinyl acetate) outsole not only adds to the attraction of this pair but is also designed to provide maximum traction. made from the quality synthetic material, this pair will be extremely soft to your feet.
+blue
+None
+{0: 'blue', 1: 'yellow', 2: 'yellow'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+63
+http://www.jabong.com/braun-Epilator-Se-5280-652803.html
+epilator se-5280
+BRAUN
+epilator se-5280
+ special features:
+white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+67
+http://www.jabong.com/cat-Urban-Element-Tech-Draw-Grey/Yellow-Backpack-Advanced-489397.html
+urban element tech draw grey/yellow backpack advanced
+Cat
+urban element tech draw grey/yellow backpack advanced
+ cat® presents this grey coloured backpack, which will let you carry your essentials in style. made of polyester, this unisex backpack is long lasting and light in weight. the padded shoulder straps facilitate comfortable portability.
+yellow
+polyester
+{0: 'grey'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+68
+http://www.jabong.com/Catwalk-Beige-Belly-Shoes-357732.html
+beige belly shoes
+Catwalk
+beige belly shoes
+ gussy up with this pair of sandals by catwalk. offering optimum traction on wet or dry floors, the resin sole complements the sleek design of this pair of sandals. pair this with a grecian style top and skinny jeans to flaunt a diva look for the day.
+beige
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+74
+http://www.jabong.com/bombay-high-Solid-Black-Trousers-163743.html
+solid black trousers
+Bombay high
+solid black trousers
+ look chic in these black coloured trousers for women from bombay high. these trousers will enhance your body frame and are very extremely comfortable. team these up with a white coloured shirt to create the perfect formal look.
+black
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+75
+http://www.jabong.com/bombay-high-Washed-Blue-Jeans-163730.html
+washed blue jeans
+Bombay high
+washed blue jeans
+ these jeans from the house of bombay high have an excellent fit and will lend you a sophisticated look. these jeans will keep you at comfort and at ease all day long. pair these jeans with a white t-shirt to complete your look.
+blue
+None
+{0: 'white'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+77
+http://www.jabong.com/Catwalk-Black-Belly-Shoes-31646.html
+black belly shoes
+Catwalk
+black belly shoes
+ want something smart yet comfortable to go with your regular office wear? grab this pair of belly shoes from catwalk. these belly shoes are easy to wear and yet elegant. suitable for office wear as well as formal occasions.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+79
+http://www.jabong.com/Catwalk-Black-Sandals-148923.html
+black sandals
+Catwalk
+black sandals
+ chic and fashionable, these trendy slippers from the house of catwalk will lend you a sexy and ladylike look. with simple yet elegant design, these slippers will look good when paired with dresses or jeans.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+83
+http://www.jabong.com/Catwalk-Black-Sandals-357858.html
+black sandals
+Catwalk
+black sandals
+ make the heads turn as you step out when you slip on this pair of sandals from the house of catwalk. experience endless comfort wearing this pair of sandals, which is crafted using comfortable pu sole. wear your attitude with a polka dots blouse, palazzo pants and this pair of sandals.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+84
+http://www.jabong.com/Catwalk-Black-Sandals-357933.html
+black sandals
+Catwalk
+black sandals
+ wear your heart on your sleeve when you slip on this pair of sandals from the house of catwalk. feel out-of-the-world comfort wearing this pair of sandals with pu (polyurethane) sole. mousse up and tie your hair at the back, throw on the jump suit with chunky jewellery to sport a street-smart look.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+89
+http://www.jabong.com/Catwalk-Black-Sandals-460804.html
+black sandals
+Catwalk
+black sandals
+ be a la mode when you slip on this pair of sandals from the house of catwalk. this pair is designed to ensure that every nerve in your feet relaxes on the comfortable sole. club with a flowy midi dress for a contrasting feminine look.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+92
+http://www.jabong.com/alvaro-castagnino-Black/Brown-Leather-Belt-626932.html
+black/brown leather belt
+Alvaro Castagnino
+black/brown leather belt
+ check out this black coloured belt from alvaro castagnino that will surely impress modern men. made from leather, it is durable. the bold metal buckle will surely add a new twist to your casual look.
+black
+leather
+{0: 'black', 1: 'metal'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+97
+http://www.jabong.com/bonjour-Copper-Sandals-633058.html
+copper sandals
+Bonjour
+copper sandals
+ be the cynosure of all eyes with this ultimate pair of copper coloured sandals from the house of bonjour. sleek finish and comfortable sole of this pair of sandals will make your feet feel out of this world. chinese collar shirt and high-rise pants with this pair will make you look like a diva.
+bronze
+None
+{0: 'copper'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+98
+http://www.jabong.com/Catwalk-Black-Sandals-507260.html
+black sandals
+Catwalk
+black sandals
+ make the roads your private ramp as you adorn this pair of black coloured sandals by catwalk. crafted using resin, the sole will keep your feet at comfort all day long. club this pair with a zig-zag pattern kurti and a churidar to look fabulously astonishing.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+100
+http://www.jabong.com/bonjour-Golden-Sandals-344910.html
+golden sandals
+Bonjour
+golden sandals
+ be a-la-mode as you adorn this pair of sandals by bonjour. this pair is designed to ensure that every nerve in your feet can relax on the comfortable resin sole. wear with skinny jeans and a printed blouse to ensure a comfortable day ahead.
+golden
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+105
+http://www.jabong.com/Catwalk-Black-Sandals-542393.html
+black sandals
+Catwalk
+black sandals
+ live it up as you adorn this pair of sandals by catwalk. designed for fashion-forward women, these sandals feature a synthetic upper that has an excellent finish and a synthetic lining for added comfort. a chinese collar shirt and high-rise pants with this pair will make you look like a diva.
+black
+synthetic leather
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+109
+http://www.jabong.com/bonjour-White-Sandals-562024.html
+white sandals
+Bonjour
+white sandals
+ let the vivacious diva in you get a new breath of life. as you adorn this pair of sandals by bonjour. let every nerve in your feet sing the song of comfort as you adorn this pair of sandals. club this pair with a zig-zag pattern kurti and a churidar to look fabulously astonishing.
+white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+113
+http://www.jabong.com/Catwalk-Blue-Belly-Shoes-357730.html
+blue belly shoes
+Catwalk
+blue belly shoes
+ elegant and pretty, these navy blue coloured belly shoes from catwalk will certainly complete your classy appearance. made from non-leather material, these belly shoes are durable and a valuable pick. further, the resin sole makes them light in weight and slip resistant. 
+blue
+None
+{0: 'navy blue'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+116
+http://www.jabong.com/Catwalk-Blue-Sandals-108044.html
+blue sandals
+Catwalk
+blue sandals
+ scintillate your wardrobe with these lovely, funky sandals. the appealing blue and pink hues make it a remarkable piece. the cute pink bow to one side of the strap adds a dash of jovial spirit. wear these with your mini skirt and top to be the charmer in college.
+blue
+None
+{0: 'blue', 1: 'pink'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+123
+http://www.jabong.com/alvaro-castagnino-Black/Brown-Leather-Belt-626937.html
+black/brown leather belt
+Alvaro Castagnino
+black/brown leather belt
+ make a stylish addition to your accessory collection with this black coloured belt from alvaro castagnino. simple yet appealing, this men’s belt features a bold metal buckle. this leather belt is durable and ensures great grip. it will go well with your casual look.
+black
+leather
+{0: 'black', 1: 'metal'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+126
+http://www.jabong.com/Catwalk-Blue-Sandals-357798.html
+blue sandals
+Catwalk
+blue sandals
+ let the crazy you pop out for a day as you adorn this pair of sandals by catwalk. this pair of sandals provides optimal flexibility, owing to the resin sole. team these slippers perfectly with a midi skirt and a floral crop top for an ultimate look.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+127
+http://www.jabong.com/Catwalk-Blue-Sandals-41468.html
+blue sandals
+Catwalk
+blue sandals
+ here’s a lovely pair of casual sandals that will brighten up your feet. what’s more this pair by catwalk will keep you utterly comfortable as well. these easy to wear sandals will look great with jeans, skirts or shirts. combine with a matching bag for a jaunty touch.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+128
+http://www.jabong.com/Catwalk-Blue-Sandals-460797.html
+blue sandals
+Catwalk
+blue sandals
+ make the roads your private ramp with this pair of slippers by catwalk. experience the blissful comfort as you adorn this pair of slippers , which is crafted using a comfortable pu (polyurethane) sole. club with a flowy midi dress for a contrasting feminine look.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+129
+http://www.jabong.com/Bossini-Black-Yarn-Dyed-Skirts-583502.html
+black yarn dyed skirts
+Bossini
+black yarn dyed skirts
+ let all eyes be on you wearing this black coloured skirt for women from the house of bossini. made from cotton spandex, this, regular-fit, stretchable skirt will keep you comfortable and sweat free all day long. team it with a white coloured top to look gorgeous. 
+black
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+131
+http://www.jabong.com/Catwalk-Blue-Sandals-460851.html
+blue sandals
+Catwalk
+blue sandals
+ be a-la-mode when you wear this pair of sandals by catwalk. this ergonomically designed pair of sandals will keep your feet stress free. play with sheer fabric outfits while wearing this pair of sandals for the look of the day.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+134
+http://www.jabong.com/Catwalk-Bronze-Sandals-126260.html
+bronze sandals
+Catwalk
+bronze sandals
+ featuring a trendy toe-loop style and nice colour, these slippers from catwalk are perfect for summers. a resin sole ensures good grip and durability. these sandals are all set to complement your ethnic outfits.
+bronze
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+136
+http://www.jabong.com/Bossini-Blue-Top-604551.html
+blue top
+Bossini
+blue top
+ give a fashionable twist to your little princess’s appearance with this blue coloured top for girls from the house of bossini. made from 100% cotton, this regular-fit top will keep her comfortable and sweat free all day long. let her team it with black coloured shorts to look adorable. 
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+144
+http://www.jabong.com/Bossini-Grey-Solid-Crew-Neck-T-Shirt-616378.html
+grey solid crew neck t shirt
+Bossini
+grey solid crew neck t shirt
+ pop champagne and feel like a billionaire wearing this grey coloured t-shirt by bossini. hook up with comfort and roll with time as you adorn this t-shirt fashioned using cotton. style it with acid washed denim jeans and suede loafers for a casual look with an edge.
+grey
+None
+{0: 'grey', 1: 'champagne'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+145
+http://www.jabong.com/Catwalk-Brown-Sandals-3430.html
+brown sandals
+Catwalk
+brown sandals
+ evoke a soft and sweet look this season by slipping into this gorgeous catwalk creation. you are sure to fall for the adorable design scheme of these sandals. the ankle strap provides you with great support and comfort. team these up with a wood-cut jeans.
+
+brown
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+146
+http://www.jabong.com/Catwalk-Golden-Belly-Shoes-48030.html
+golden belly shoes
+Catwalk
+golden belly shoes
+ an ideal pair of footwear for collegiates, these can be worn with a pair of denims. stylish and trendy, these also offer the best in comfort and durability, courtesy non-leather upper and lining.
+golden
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+148
+http://www.jabong.com/Catwalk-Golden-Sandals-231874.html
+golden sandals
+Catwalk
+golden sandals
+ let the vivacious diva in you get a new breath of life. with this pair of slippers by catwalk. experience endless comfort wearing this pair of slippers, which is crafted using comfortable resin sole. fill the space with magic as you wear this pair with linen trousers and a cowl neck top.
+golden
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+151
+http://www.jabong.com/Catwalk-Golden-Sandals-507215.html
+golden sandals
+Catwalk
+golden sandals
+ live it up when you slip on this pair of slippers from the house of catwalk. experience blissful comfort as you adorn this pair of slippers, which is crafted using comfortable resin sole. play with sheer fabric outfits while clubbing this pair of slippers for the look of the day.
+golden
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+155
+http://www.jabong.com/braun-Hd310--Hair-Dryer-652816.html
+hd310  hair dryer
+BRAUN
+hd310  hair dryer
+ features:
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+158
+http://www.jabong.com/Catwalk-Green/Blue-Sandals-231899.html
+green/blue sandals
+Catwalk
+green/blue sandals
+ featuring a trendy design, these blue/green coloured sandals will certainly make your feet look attractive. durable and high on quality, these sandals from catwalk are made from non-leather material. the pu (polyurethane) sole further makes these sandals slip resistant and extremely comfortable to walk in. 
+green
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+159
+http://www.jabong.com/breakbounce-Blue-Alpha-Regular-Fit-Casual-Trouser-452541.html
+blue alpha regular fit casual trouser
+Breakbounce
+blue alpha regular fit casual trouser
+ get ready for a party tonight wearing these blue coloured casual trousers for men from the house of breakbounce. made from 100% cotton, these regular-fit trousers are high on comfort. these trousers are designed as per the latest trends to keep you in sync with high fashion. team these with a black coloured casual shirt to complete your evening look. 
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+160
+http://www.jabong.com/Bossini-Peach--Woven-Top-635974.html
+peach  woven top
+Bossini
+peach  woven top
+ flaunt sartorial elegance as you wear this peach coloured top from the house of bossini. fashioned using 100% polyester, this top will keep you at comfort all day long. pair this top with black denims to get endless compliments.
+peach
+None
+{0: 'peach', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+161
+http://www.jabong.com/Bossini-Pink-Mega-Sleeves-Solid-Top-583493.html
+pink mega sleeves solid top
+Bossini
+pink mega sleeves solid top
+ let the world take a peep at your vivaciousness when you wear this pink coloured top by bossini. this top is designed as per the latest trends and fashioned using quality cotton spandex . team it with black coloured shorts for a sassy look.
+pink
+None
+{0: 'pink', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+162
+http://www.jabong.com/Bossini-Pink-Skirt-604554.html
+pink skirt
+Bossini
+pink skirt
+ adorable and cute, this pink coloured skirt for girls from the house of bossini will make your little princess a trendsetter. made from a blend of 95% cotton and 5% lycra, this regular-fit skirt will keep her comfortable all day long. let her team it with a white coloured top to look fashionable. 
+pink
+None
+{0: 'pink', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+168
+http://www.jabong.com/Catwalk-Green-Sandals-104568.html
+green sandals
+Catwalk
+green sandals
+ those who prefer to wear flats will be happy and comfortable wearing this pair of tan coloured sandals from catwalk. the green coloured straps add style to the pair, while the durable sole keeps you relaxed.
+green
+None
+{0: 'green', 1: 'tan'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+174
+http://www.jabong.com/Catwalk-Grey-Loafers-260086.html
+grey loafers
+Catwalk
+grey loafers
+ whether you are wearing shorts or cropped jeans, these grey loafers from catwalk will not fail to add a fashionable twist to your look. stylish and versatile, these flat loafers feature white stitch detailing on the non-leather upper for added attraction. not to forget, the rubber sole that makes these lace-ups comfortable to wear. 
+grey
+None
+{0: 'grey', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+176
+http://www.jabong.com/breakbounce-Blue-Storm-Regular-Fit-Casual-Trouser-452581.html
+blue storm regular fit casual trouser
+Breakbounce
+blue storm regular fit casual trouser
+ look trendy and cool wearing these blue coloured trousers from the house of breakbounce. made of 100% cotton, these trousers for men are easily washable and high on quality as well. featuring regular fit, these casual trousers will look perfect when teamed with a white coloured polo t-shirt and grey coloured moccasins.
+blue
+None
+{0: 'blue', 1: 'grey', 2: 'white', 3: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+177
+http://www.jabong.com/Bossini-White-Cap-Sleeves-Printed-Top-583494.html
+white cap sleeves printed top
+Bossini
+white cap sleeves printed top
+ if versatality is your game, then wear this white coloured top by bossini. made of premium quality viscose, this top is highly comfortable and a perfect pick of the season. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+179
+http://www.jabong.com/Catwalk-Grey-Sandals-260092.html
+grey sandals
+Catwalk
+grey sandals
+ get dressed to the nines with this pair of slippers by catwalk. let every nerve in your feet sing the song of comfort as you adorn this pair of slippers. club with a flowy midi dress for a contrasting feminine look.
+grey
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+180
+http://www.jabong.com/Catwalk-Grey-Sandals-332364.html
+grey sandals
+Catwalk
+grey sandals
+ be the cynosure of all eyes with this pair of sandals by catwalk. this pair of sandals provides optimal flexibility, owing to the resin sole. pair this with a grecian style top and skinny jeans to flaunt a diva look for the day.
+grey
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+181
+http://www.jabong.com/alvaro-castagnino-Black/Brown-Leather-Belt-626962.html
+black/brown leather belt
+Alvaro Castagnino
+black/brown leather belt
+ add a new twist to your casual look wearing this black coloured belt from alvaro castagnino. made from leather, this belt is durable. you will surely fall in love with the stylish bold metal buckle that is hard not to notice.
+black
+leather
+{0: 'black', 1: 'metal'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+183
+http://www.jabong.com/Catwalk-Grey-Sandals-357872.html
+grey sandals
+Catwalk
+grey sandals
+ be a-la-mode with this pair of sandals by catwalk. let the sun go down for uncomfortable shoes, opt for this pair of sandals that is crafted using comfortable resin sole. small studs, plain shirt and pencil skirt are all you need to complete the look for the season with this pair of sandals.
+grey
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+185
+http://www.jabong.com/Catwalk-Khaki-Wedges-138857.html
+khaki wedges
+Catwalk
+khaki wedges
+ wedges are a perfect footwear option for those who want to add extra inches to their height without compromising on comfort. these wedges from the house of catwalk are stylish and extremely comfortable. sober in colour, these wedges are perfect to be worn at work.
+khaki
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+187
+http://www.jabong.com/Catwalk-Maroon-Sandals-187717.html
+maroon sandals
+Catwalk
+maroon sandals
+ make heads turn as you step out when you slip on this pair of slippers from the house of catwalk. feel snug as a bug in a rug with this pair of slippers, that feature a comfortable resin sole. fill the space with magic as you wear this pair with linen trousers and a cowl neck top.
+maroon
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+188
+http://www.jabong.com/Catwalk-Maroon-Wedges-138854.html
+maroon wedges
+Catwalk
+maroon wedges
+ lovely pair of maroon coloured wedges from catwalk especially for those who are more style conscious. the beautifully designed maroon straps on the brown wedges looks captivating and the back strap lends impeccable support to your feet. team up this pair with dark blue denims and maroon coloured kaftan top for an attractive look.
+maroon
+None
+{0: 'blue', 1: 'brown', 2: 'maroon', 3: 'maroon'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+189
+http://www.jabong.com/breakbounce-Blue-Verde-Henley-T-Shirts-633052.html
+blue verde henley t shirts
+Breakbounce
+blue verde henley t shirts
+ fall in love with the soft texture wearing this slim-fit t-shirt by breakbounce. hook up with comfort and roll with time as you wear this t-shirt fashioned using cotton. work hard and play harder as you party through the night in this utterly comfortable t-shirt.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+190
+http://www.jabong.com/breakbounce-Cocon-Yellow-Gillits-Henley-T-Shirt-664244.html
+cocon yellow gillits henley t shirt
+Breakbounce
+cocon yellow gillits henley t shirt
+ breakbounce offers this yellow coloured t-shirt that is all you need to channel a stylish boy-next-door look. featuring slim fit and a henley neck, this t-shirt will look fabulous with blue jeans and matching boat shoes. made from cotton fabric, this t-shirt will keep you cool and comfortable as the temperature soars.  
+yellow
+None
+{0: 'blue', 1: 'yellow', 2: 'yellow'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+191
+http://www.jabong.com/breakbounce-Coral-Red-Stripes-Sishen-Crew-Neck-T-Shirt-664253.html
+coral red stripes sishen crew neck t shirt
+Breakbounce
+coral red stripes sishen crew neck t shirt
+ look stylish effortlessly by wearing this red coloured t-shirt from breakbounce. the white coloured stripes on this crew-neck t-shirt lend it a wonderful look to catch everyone’s attention. made from cotton, this slim-fit t-shirt is also high on the comfort factor.
+red
+None
+{0: 'red', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+192
+http://www.jabong.com/breakbounce-Dark-Grey-Slim-Fit-V-Neck-T-Shirt-532513.html
+dark grey slim fit v-neck t shirt
+Breakbounce
+dark grey slim fit v-neck t shirt
+ look up-to-date this season by wearing this dark grey coloured t-shirt for men from the house of breakbounce. featuring stripes, this slim-fit t-shirt will add class to your appearance. made from cotton, it will keep you comfortable all day long. team it with black coloured chinos to look trendy. 
+dark grey
+None
+{0: 'dark grey', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+201
+http://www.jabong.com/breakbounce-Green-Fluence--Tapered-Fit-Shorts-452560.html
+green fluence  tapered fit shorts
+Breakbounce
+green fluence  tapered fit shorts
+ be bestowed as the king of fun wearing these shorts by breakbounce. fashioned using 100% cotton, these sun ready shorts are utterly comfortable. this pair of shorts will allow you to stay sweat free all day long.
+green
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+204
+http://www.jabong.com/Bossini-White-Sleeveless-Top-583489.html
+white sleeveless top
+Bossini
+white sleeveless top
+ get rid of the 'regular' look this season as you wear this top from the house of bossini. made from cotton voile, this regular-fit top will keep you comfortable in summers. this beautiful creation will give you a trendy look when clubbed with matching leggings and sandals.
+white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+205
+http://www.jabong.com/Bossini-White-Slim-Fit-Casual-Shirt-569650.html
+white slim fit casual shirt
+Bossini
+white slim fit casual shirt
+ look iconic when you wear this casual shirt from the house of bossini. let your skin feel the cool breeze when you slip on this slim-fit, casual shirt that is fashioned using cotton. so, keep partying like it’s your job, wearing this comfy casual shirt, pair of tapered jeans and suede loafers.
+white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+206
+http://www.jabong.com/Bossini-Yellow-Dress-604544.html
+yellow dress
+Bossini
+yellow dress
+ give your princess a fashionable look with this yellow coloured dress for girls from the house of bossini. made from 100% cotton, this regular-fit dress will keep her at comfort all day long. it features a bird print all over to accentuate her look. let her team it with white coloured sandals to look stunning.   
+yellow
+None
+{0: 'yellow', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+207
+http://www.jabong.com/Bossini-Yellow-Legging-604562.html
+yellow legging
+Bossini
+yellow legging
+ keep your little princess comfortable all day long with these yellow coloured leggings for girls from the house of bossini. made from a blend of 95% cotton and 5% lycra, these leggings are skin friendly and easy to maintain. featuring an elasticated waistband, these leggings provide a snug fit. let her team these with a white coloured long top to look adorable.
+yellow
+None
+{0: 'yellow', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+208
+http://www.jabong.com/Catwalk-Pink-Belly-Shoes-357950.html
+pink belly shoes
+Catwalk
+pink belly shoes
+ get dressed to the nines with this pair of sandals by catwalk. this ergonomically designed pair of sandals will keep your feet stress free. club with a flowy midi dress for a contrasting feminine look.
+pink
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+210
+http://www.jabong.com/Catwalk-Pink-Sandals-63721.html
+pink sandals
+Catwalk
+pink sandals
+ these casual sandals for women from catwalk are so very trendy. these are simple and pretty, with the coloured straps lending a bright look. the ankle straps and the flat sole will give your feet comfort. so step out in style, wearing these comfortable sandals.
+pink
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+211
+http://www.jabong.com/Catwalk-Red-Belly-Shoes-116280.html
+red belly shoes
+Catwalk
+red belly shoes
+ here is a great pair of belly shoes for ladies from the house of catwalk. these belly shoes are simple yet subtly stylish in their own way and are crafted from quality leather. this pair of shoes ensures complete comfort for your feet.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+212
+http://www.jabong.com/Catwalk-Red-Belly-Shoes-3347.html
+red belly shoes
+Catwalk
+red belly shoes
+ for cool and chic look every day, go for these catwalk belly shoes. stylish yet comfortable these belly shoes can never go out of fashion. vibrant red on rich black is incredible and looks pleasing to the eye. pair up with your casual outfit like denims, skirts or shorts to complete the look. 
+
+red
+None
+{0: 'red', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+214
+http://www.jabong.com/Catwalk-Red-Sandals-126266.html
+red sandals
+Catwalk
+red sandals
+ buckled style slippers to flaunt your pretty feet from catwalk. this pair of slippers is not only comfortable but airy too. complete your outdoor look by wearing it with skirts or jeans.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+216
+http://www.jabong.com/breakbounce-Green-Slim-Fit-Crew-Neck-T-Shirt-452481.html
+green slim fit crew neck t shirt
+Breakbounce
+green slim fit crew neck t shirt
+ pop champagne and fake like a billionaire as you adorn this slim-fit t-shirt from the house of breakbounce. soft texture of 100% cotton and classic stitching make this t-shirt best option for a brunch. style it with acid washed denim jeans and suede loafers for a casual look with an edge.
+green
+None
+{0: 'champagne'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+217
+http://www.jabong.com/breakbounce-Khaki-Scrambler-Comfort-Fit-Casual-Trouser-452580.html
+khaki scrambler comfort fit casual trouser
+Breakbounce
+khaki scrambler comfort fit casual trouser
+ showcase a smart, stylish look at the next casual outing by teaming up these khaki coloured casual trousers from breakbounce with a modish shirt. not only will these comfort-fit trousers look good on you, but will also offer you sheer comfort because of the cotton fabric.
+khaki
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+221
+http://www.jabong.com/breakbounce-Navy-Blue-Slim-Fit-Casual-Trouser-452603.html
+navy blue slim fit casual trouser
+Breakbounce
+navy blue slim fit casual trouser
+ a must-have in the casual wear collection of every style-conscious man is this pair of blue coloured trousers by breakbounce. exuding a high fashion appeal, these trousers will look great with casual shirts and t-shirts. tailored in slim fit from a blend of 98% cotton and 2% spandex, these trousers will keep you fresh and comfortable all day long.
+navy blue
+None
+{0: 'blue'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+222
+http://www.jabong.com/Catwalk-Red-Sandals-332381.html
+red sandals
+Catwalk
+red sandals
+ be the cynosure of all eyes as you adorn this pair of slippers by catwalk. crafted using resin, the sole will keep your feet at comfort all day long. club with a flowy midi dress for a contrasting feminine look.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+223
+http://www.jabong.com/Catwalk-Red-Sandals-41467.html
+red sandals
+Catwalk
+red sandals
+ here’s a lovely pair of casual sandals that will brighten up your feet. what’s more this pair by catwalk will keep you utterly comfortable as well. these easy to wear sandals will look great with jeans, skirts or shirts. combine with a matching bag for a jaunty touch.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+224
+http://www.jabong.com/breakbounce-Olive-Casual-Shirts-544025.html
+olive casual shirts
+Breakbounce
+olive casual shirts
+ never out of fashion, this olive coloured casual shirt for men from the house of breakbounce, will keep you in sync with high fashion. made from premium quality cotton rich, this regular-fit shirt will keep you sweat free and comfortable. team it with blue coloured denims to look fashionable like never before.  
+olive
+None
+{0: 'blue', 1: 'olive'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+229
+http://www.jabong.com/boss-orange-Black/Black-Aviator-556935.html
+black/black aviator
+Boss Orange
+black/black aviator
+ if you have an eye for stylish eyewear, then these trendy, black coloured aviators from boss orange will certainly catch your attention.  featuring impact-resistant polycarbonate lenses, these lightweight sunglasses are perfect for everyday wear.  truly worthwhile, these unisex sunglasses have uv-protected lenses and are thus, a must-have in your accessory collection.     
+black
+polycarbonate
+{0: 'black', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+230
+http://www.jabong.com/breakbounce-Orange-Henley-T-Shirts-544027.html
+orange henley t shirts
+Breakbounce
+orange henley t shirts
+ spruce up your causal look wearing this trendy orange coloured henley t-shirt for men from the house of breakbounce. made from cotton, this regular-fit t-shirt will keep you comfortable and sweat free all day long.  it features a 5-buttoned placket on the front to add charm to your appearance. team it with black coloured denims to look your best. 
+orange
+None
+{0: 'black', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+231
+http://www.jabong.com/breakbounce-Orange-Verde-Henley-T-Shirts-633054.html
+orange verde henley t shirts
+Breakbounce
+orange verde henley t shirts
+ retro is back in style! flaunt the same wearing this slim-fit t-shirt by breakbounce. fashioned using cotton, this can be easily worn when heading out for a crazy day ahead with friends. live the moment wearing this t-shirt with casual trousers and flip-flops as you hit the streets with your best buds.
+orange
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+237
+http://www.jabong.com/breakbounce-Red-Halo-Tapered-Fit-Shorts-452359.html
+red halo tapered fit shorts
+Breakbounce
+red halo tapered fit shorts
+ promote the free-living lifestyle as you adorn these shorts from the house of breakbounce. made from 100% cotton, these shorts will keep you comfortable throughout. you need to be ice-cold this summer as you head out with friends, so throw on these shorts with a pastel coloured cotton t-shirt and flip-flops.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+247
+http://www.jabong.com/boss-orange-Bo0144/S-6Sfz0-Blue/Black-Aviator-599118.html
+bo0144/s 6sfz0 blue/black aviator
+Boss Orange
+bo0144/s 6sfz0 blue/black aviator
+ don an edgy look wearing these black coloured aviators from the house of boss orange. made of polycarbonate, these unisex aviators are extremely durable and light in weight. these full-rim aviators are a class apart from others.
+blue
+polycarbonate
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+248
+http://www.jabong.com/boss-orange-Bo0155/S-Bamsq-Golden/Black-Round-643266.html
+bo0155/s bamsq golden/black round
+Boss Orange
+bo0155/s bamsq golden/black round
+ stylish and durable, these golden sunglasses from boss orange will be an ultimate pick for your accessory collection. made from sheet, these unisex sunglasses featuring a round frame are fine in quality and a worthy investment. further, these full-rim sunglasses have uv-protected lenses. 
+golden
+sheet
+{0: 'golden', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+252
+http://www.jabong.com/Catwalk-Silver-Stilletoes-204758.html
+silver stilletoes
+Catwalk
+silver stilletoes
+ be a la mode wearing these catwalk stilettos in silver colour. let every nerve in your feet sing the song of comfort as you adorn this pair of stilettos. perfect for twist and turn on the dance floor, this pair can be clubbed with a little black dress for the funfilled night.
+silver
+None
+{0: 'silver', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+253
+http://www.jabong.com/boss-orange-Grey/Grey-Aviator-556934.html
+grey/grey aviator
+Boss Orange
+grey/grey aviator
+ if you have an eye for stylish eyewear, then these trendy, grey coloured aviators from boss orange will certainly catch your attention.  featuring impact-resistant polycarbonate lenses, these lightweight sunglasses are perfect for everyday wear.  truly worthwhile, these unisex sunglasses have uv-protected lenses and are thus, a must-have in your accessory collection.     
+grey
+polycarbonate
+{0: 'grey', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+256
+http://www.jabong.com/brandley-Black-Running-Shoes-592850.html
+black running shoes
+BRANDLEY
+black running shoes
+ brandley offers these black and red coloured running shoes that will be your true companion for all those rigorous gymming or practice sessions. featuring synthetic upper and lining, these lace-ups for men will provide proper support and comfort to your feet for an excellent performance. moreover, the eva (ethylene vinyl acetate) sole makes this pair flexible and sturdy.  
+black
+None
+{0: 'red', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+260
+http://www.jabong.com/breakbounce-White-Casual-Shirts-544023.html
+white casual shirts
+Breakbounce
+white casual shirts
+ look suave and classy wearing this white coloured casual shirt for men from the house of breakbounce. made from cotton rich, this slim-fit shirt will keep you comfortable all day long. team it with black coloured chinos to look fashionable like never before. 
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+261
+http://www.jabong.com/breo-Digital-B-Ti-Rme58M-Green/White-Digital-Watch-473709.html
+digital b-ti-rme58m green/white digital watch
+Breo
+digital b-ti-rme58m green/white digital watch
+ a sporty look awaits you on the other side of flaunting this green coloured, unisex digital watch from breo with your trendy outfits. comfortable to wear because of the rubber strap, this watch offers lightweight sturdiness too, courtesy the plastic dial. the 5 atm water resistant feature, furthermore, makes it impervious to water damage. it comes with 1-year warranty.
+No Color
+None
+{0: 'green'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+262
+http://www.jabong.com/breo-Qwartz-B-Ti-Vt4M-Aqua-Blue/White-Analog-Watch-473724.html
+qwartz b-ti-vt4m aqua blue/white analog watch
+Breo
+qwartz b-ti-vt4m aqua blue/white analog watch
+ keep up with time wearing this aqua blue coloured analog watch from the house of breo. featuring an oval dial made of plastic, this watch will make you look trendy and cool. the rubber strap makes this magnificent creation light in weight. this unisex watch comes with 1-year warranty.
+No Color
+None
+{0: 'aqua blue'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+264
+http://www.jabong.com/Catwalk-White-Sandals-133937.html
+white sandals
+Catwalk
+white sandals
+ take a stylish step forward with these strappy sandals from catwalk. complementing your casual attire, these sandals will keep your feet comfortable all day.  also, the ankle strap ensures a snug fit, while the resin sole promises durability.
+white
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+266
+http://www.jabong.com/Catwalk-Yellow-Sandals-187707.html
+yellow sandals
+Catwalk
+yellow sandals
+ strap these gorgeous, mustard coloured sandals by catwalk and make a style statement wherever you go! designed to perfection, these sandals have a strappy design that looks very stylish. the non-leather upper and footbed provide durability while the resin sole ensures a perfect grip while walking. the stiletto heel of these sandals will surely add few more inches to your height thereby lend you a stunning look.
+yellow
+None
+{0: 'mustard'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+

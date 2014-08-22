@@ -1,0 +1,1483 @@
+1
+http://www.jabong.com/giordano-Solid-Pink-Slim-Fit-Polo-T-Shirt-674198.html
+solid pink slim fit polo t-shirt
+Giordano
+solid pink slim fit polo t-shirt
+ retro is back in style, flaunt the same wearing this slim-fit t-shirt by giordano. fashioned using cotton, this can be easily worn when heading out for a crazy day ahead with friends. live the moment wearing this t-shirt with casual trousers and flip-flops as you hit the street with best buds.
+pink
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+5
+http://www.jabong.com/giordano-Victory-Black--P9275-Black-/-Black-Analog-Watch-168021.html
+victory-black- p9275 black / black analog watch
+Giordano
+victory-black- p9275 black / black analog watch
+ please note that this is an analog watch where the two smaller dials and crowns are for aesthetic purposes only and are non-functional. play it stylish with this black analogue watch from giordano. get that absolute classy look by flaunting this watch with your formal attire. wear this smart piece to be counted as a trendsetter.
+No Color
+None
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+6
+http://www.jabong.com/exotica-Red-Belly-Shoes-501401.html
+red belly shoes
+Exotica
+red belly shoes
+ live in the moment when you slip on this pair of belly shoes from the house of exotica. featuring multi-directional grip and comfortable sole, this pair will allow free movement. fill the space with magic as you wear this pair with linen trousers and a cowl neck top.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+7
+http://www.jabong.com/exotica-Red-Belly-Shoes-501414.html
+red belly shoes
+Exotica
+red belly shoes
+ make heads turn as you step out adorning this pair of belly shoes by exotica. feel out-of-the-world comfort wearing this pair of belly shoes with resin sole. tie your hair in a high bun, throw on cowl pants and a body-hugging top with this pair of belly shoes for the look of the day.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+8
+http://www.jabong.com/giordano-White-Analog-Watch-430653.html
+white analog watch
+Giordano
+white analog watch
+ make an impression on your friends by flaunting this white coloured analog watch for men from the house of giordano. featuring a stylish dial and attractive leather strap, this watch will be a classy touch to your look.
+No Color
+None
+{0: 'white'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+10
+http://www.jabong.com/extreme-'s-Deodorant-200ml-27386.html
+'s deodorant 200ml
+Extreme
+'s deodorant 200ml
+ embrace yourself with refreshing fragrance of women extreme deodorant by nike. enticing scent of this deodorant will keep you fresh for hours. ideal for daily wear, this deodorant is a perfect choice to keep sweat at bay. so dont waste time in thinking, just grab this one while the stocks last.
+No Color
+None
+None
+ No color in description
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+14
+http://www.jabong.com/ezra-Black-Sandals-567658.html
+black sandals
+Ezra
+black sandals
+ let the crazy you pop out for a day when you wear these sandals by ezra. offering optimum traction on a wet or dry floor, the resin sole complements the sleek design of this pair of sandals. tie your hair in a high bun, throw on cowl pants and a body-hugging top with this pair of sandals for a perfect look.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+18
+http://www.jabong.com/giordano-Yellow-Analog-Watch-430651.html
+yellow analog watch
+Giordano
+yellow analog watch
+ analog watch for men from the house of giordano will be a distinct addition to your accessory collection. this yellow coloured analog watch will add class to your look with its attractive dial and leather strap.
+No Color
+None
+{0: 'yellow'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+19
+http://www.jabong.com/giordano-Yellow-Strolley-550293.html
+yellow strolley
+Giordano
+yellow strolley
+  
+yellow
+polyester
+None
+Description Not Present No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+22
+http://www.jabong.com/giorgio-armani-Code-Eau-de-Parfum-75ml-90435.html
+code eau de parfum 75ml
+Giorgio Armani
+code eau de parfum 75ml
+ seduce everyone around you wearing the fragrance of ‘code edp’ from giorgio armani. truly feminine, it contains refreshing notes of orange flowers with fresh ginger accents as well as a hint of honey and sandalwood.
+No Color
+None
+{0: 'orange'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+23
+http://www.jabong.com/giorgio-armani-Mania-Eau-De-Toilette-100ml-73840.html
+mania eau de toilette 100ml
+Giorgio Armani
+mania eau de toilette 100ml
+ this alluring perfume from giorgio armani is a perfect blend of energy and tenderness for the active men of today. the citrus and spicy accords in the top notes is followed by the flowery notes in the heart, which dwell on a warm and woody base of cedar and musk.
+No Color
+None
+None
+ No color in description
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+25
+http://www.jabong.com/ezra-Grey-Belly-Shoes-567708.html
+grey belly shoes
+Ezra
+grey belly shoes
+ wear your heart on your sleeve with this pair of grey and beige coloured belly shoes by ezra. offering optimum traction on both wet and dry floors, the resin sole complements the sleek design of this pair of belly shoes. wear your attitude with a polka dots blouse, palazzo pants and this pair of belly shoes.
+grey
+None
+{0: 'grey', 1: 'beige'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+28
+http://www.jabong.com/giorgio-armani-Mania-Edt-50Ml-237556.html
+mania edt 50ml
+Giorgio Armani
+mania edt 50ml
+ masculine, fresh and sensual, this ‘mania edt’ by giorgio armani creates an aromatic aura of confidence and charisma. it contains refreshing notes of cedar and vetiver with the intense sensuality of musk and amber.
+No Color
+None
+None
+ No color in description
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+31
+http://www.jabong.com/faballey-3/4Th-Sleeve-Lace-Black-Dress-383772.html
+3/4th sleeve lace black dress
+Faballey
+3/4th sleeve lace black dress
+ take 9-to-5 look to a new level as you wear this dress from the house of faballey. this attractive dress is the flavour of the season and will give you a sassy look.  club it with platform heels to look astonishingly charming.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+34
+http://www.jabong.com/giovani-Black-Cotton-Blazer-471763.html
+black cotton blazer
+Giovani
+black cotton blazer
+ don a classic look wearing this balck coloured blazer from the house of giovani. made of cotton, this blazer for men is extremely comfortable to wear. featuring regular fit, this blazer will perfectly complement your formals and casuals.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+40
+http://www.jabong.com/faballey-3/4Th-Sleeve-Mesh-Solid-Black-Dress-383778.html
+3/4th sleeve mesh solid black dress
+Faballey
+3/4th sleeve mesh solid black dress
+ jet from day to night with ease wearing dress by faballey. tailored in regular fit, this dress will keep you comfortable all day long. team it with matching pumps to step out in style.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+42
+http://www.jabong.com/gipsy-3/4Th-Sleeve-Printed-Green-Tunic-347428.html
+3/4th sleeve printed green tunic
+Gipsy
+3/4th sleeve printed green tunic
+ featuring a beautiful floral print, this multicoloured tunic from gipsy will be a perfect addition to your wardrobe. made from cotton, this tunic will keep you cool and comfortable throughout the day. to look your best, team this tunic with white leggings and flat slippers.
+green
+None
+{0: 'white'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+43
+http://www.jabong.com/gipsy-3/4Th-Sleeve-Solid-Green-Tunic-347419.html
+3/4th sleeve solid green tunic
+Gipsy
+3/4th sleeve solid green tunic
+ add this green coloured tunic from gipsy to your wardrobe to stay ahead of the fashion pack. the lace detailing on the tunic will surely catch your attention. this soft cotton tunic is an ideal regular wear and will look great when matched with white coloured leggings.
+green
+None
+{0: 'green', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+46
+http://www.jabong.com/gipsy-Blue-Solid-Tunic-619868.html
+blue solid tunic
+Gipsy
+blue solid tunic
+ update your casual wardrobe this summer wearing blue coloured tunic by gipsy. made of premium quality polyester, this tunic is highly comfortable and a perfect pick of the season. pair this tunic with black denims to get endless compliments.
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+47
+http://www.jabong.com/gipsy-Blue-Viscose-Blend-Embroidered-Top-460508.html
+blue viscose blend embroidered top
+Gipsy
+blue viscose blend embroidered top
+ double your fashion flair as you wear this top from the house of gipsy. made of premium quality viscose blend, this top is highly comfortable and a perfect pick of the season. this beautiful creation will give you a trendy look when clubbed with matching leggings and sandals.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+48
+http://www.jabong.com/fastrack-Red-Laptop-Sleeve-565401.html
+red laptop sleeve
+Fastrack
+red laptop sleeve
+  
+red
+neoprene
+None
+Description Not Present No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+49
+http://www.jabong.com/fastrack-Tees-Nd9911Pp12-White-/-Green-Analog-Watch-244932.html
+tees nd9911pp12 white / green analog watch
+Fastrack
+tees nd9911pp12 white / green analog watch
+ a perfect blend of style and technology, this white coloured analog watch for women from fastrack will be a worthy pick for your accessory collection. made from stainless steel, this analog watch is durable and superior in quality. further, this 50 m water-resistant watch has a comfortable rubber strap and 1-year warranty. 
+No Color
+None
+{0: 'white'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+50
+http://www.jabong.com/fastrack-Tees-Nd9911Pp17J-White/Purple-Analog-Watch-244975.html
+tees nd9911pp17j white/purple analog watch
+Fastrack
+tees nd9911pp17j white/purple analog watch
+ stay ahead in time and fashion wearing this white coloured analogue watch from the house of fastrack. the dial of this round watch is made of alloy, which makes it rust-resistant and the strap is made of pu (polyurethane) for sturdiness. team it with your casual attire to look funky. 
+No Color
+None
+{0: 'white'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+51
+http://www.jabong.com/fastrack-Tees-Nd9911Pp18J-White/Red-Analog-Watch-244972.html
+tees nd9911pp18j white/red analog watch
+Fastrack
+tees nd9911pp18j white/red analog watch
+ rev up your casual look with this white coloured analogue watch from fastrack. the red coloured, stylish dial looks striking with the differently designed, white strap. resistant to water upto 50 m and featuring a silicone strap, this watch is high on durability.
+No Color
+None
+{0: 'red', 1: 'white'}
+ More than one color present Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+52
+http://www.jabong.com/fastrack-Uk-Ne3001Sl02-C119-Blue/Dark-Grey-Analog-Watch-461818.html
+uk ne3001sl02-c119 blue/dark grey analog watch
+Fastrack
+uk ne3001sl02-c119 blue/dark grey analog watch
+ if you have it, flaunt it! if this is your mantra then hit the streets in style wearing this blue coloured analog watch for men from the house of fastrack . the casing adds more appeal to this timepiece that can be worn on a rainy day, all thanks to its water resistance upto 50 m.
+No Color
+None
+{0: 'blue'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+54
+http://www.jabong.com/gipsy-Embroidered-Orange-Top-666107.html
+embroidered orange top
+Gipsy
+embroidered orange top
+ get in touch with your feminine side as you wear this top in orange colour from the house of gipsy. made of premium quality cotton, this top is highly comfortable and a perfect pick of the season. team it with black coloured shorts for a sassy look.
+orange
+None
+{0: 'black', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+55
+http://www.jabong.com/faballey-Black-Embroidered-Top-677709.html
+black embroidered top
+Faballey
+black embroidered top
+ dress up your summer sensibility when you wear this black coloured top by faballey. made from polyester, this regular fit top will keep you comfortable in summers. this top can be paired with basic blue coloured jeans and sneakers.
+black
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+56
+http://www.jabong.com/faballey-Black-Printed-Dress-450752.html
+black printed dress
+Faballey
+black printed dress
+ take 9-to-5 look to a new level as you wear this dress from the house of faballey. this attractive dress is the flavour of the season and will give you a sassy look.  club it with platform heels to look astonishingly charming.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+57
+http://www.jabong.com/fastrack-Ultra-Slim-M089Bk2-Grey-Sunglasses-102387.html
+ultra slim m089bk2 grey sunglasses
+Fastrack
+ultra slim m089bk2 grey sunglasses
+ 
+grey
+metal
+None
+Description Not Present No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+62
+http://www.jabong.com/faballey-Black-Tops-498583.html
+black tops
+Faballey
+black tops
+ dress up your summer sensibility when you wear this black coloured top by faballey. made from polyester, this regular top will keep you comfortable in summers. this top can be paired with basic blue coloured jeans and sneakers.
+black
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+63
+http://www.jabong.com/gipsy-Embroidered-Pink-Tunic-666130.html
+embroidered pink tunic
+Gipsy
+embroidered pink tunic
+ get rid of the 'regular' look this season as you wear this tunic in pink colour, from the house of gipsy. while the pink colour adds to your feminine charm, the sleeves and collar give your overall look some definition. pair this top with black denims to get endless compliments.
+pink
+None
+{0: 'pink', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+64
+http://www.jabong.com/gipsy-Embroidered-Yellow-Tunic-666127.html
+embroidered yellow tunic
+Gipsy
+embroidered yellow tunic
+ double your fashion flair wearing this yellow coloured tunic from the house of gipsy. made of premium quality viscose, this top is highly comfortable and a perfect pick of the season. this top can be paired with basic blue coloured jeans and sneakers.
+yellow
+None
+{0: 'blue', 1: 'yellow', 2: 'yellow'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+76
+http://www.jabong.com/fcuk-Brown/Brown/Golden-Aviator-Sunglasses-672192.html
+brown/brown/golden aviator sunglasses
+FCUK
+brown/brown/golden aviator sunglasses
+ check out these brown coloured aviators from fcuk, which will certainly win your heart at the very first glance. these unisex aviators are made from metal and are certainly a durable pick. the uv-protected lenses will further shield your eyes from harmful sunrays. 
+brown
+metal
+{0: 'brown', 1: 'metal'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+78
+http://www.jabong.com/fcuk-Connect-Her-Eau-de-Toilette-100ml-94557.html
+connect her eau de toilette 100ml
+FCUK
+connect her eau de toilette 100ml
+ fcuk offers this ‘connect her’ eau de parfum that will be a must-have for women, who are young and energetic. refreshing and long lasting, this perfume opens up with the top notes of lotus, bergamot and lily-of-the-valley and merges into the middle notes of jasmine, violet and peony. with base notes of musk, sandalwood, virginia cedar and amber, this perfume will certainly help you leave a fragrant trail. it comes in a 100 ml pack.
+No Color
+None
+None
+ No color in description
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+80
+http://www.jabong.com/gipsy-Peach-Embroidered-Top-619837.html
+peach embroidered top
+Gipsy
+peach embroidered top
+ get rid of the 'regular' look this season as you wear this peach coloured  top from the house of gipsy. fashioned using polyester, this top will keep you at comfort all day long. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+peach
+None
+{0: 'peach', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+81
+http://www.jabong.com/gipsy-Pink-Solid-Top-619838.html
+pink solid top
+Gipsy
+pink solid top
+ make the girls go green as you wear this top, in pink colour, from the house of gipsy. made from polyester, this top will keep you comfortable in summers. team it with black coloured shorts for a sassy look.
+pink
+None
+{0: 'green', 1: 'pink', 2: 'black', 3: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+82
+http://www.jabong.com/gipsy-Pink-Solid-Tunic-603536.html
+pink solid tunic
+Gipsy
+pink solid tunic
+ experience pure comfort when you wear this pink coloured tunic by gipsy. made of premium quality viscose, this top is highly comfortable and a perfect pick of the season. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+pink
+None
+{0: 'pink', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+84
+http://www.jabong.com/gipsy-Printed-Off-White-Jegging-666117.html
+printed off white jegging
+Gipsy
+printed off white jegging
+ look absolutely stunning wearing these off-white coloured jeggings from gipsy. featuring a unique print, these ankle-length jeggings will become your instant favourite. team these cotton jeggings with a hip-length top and matching belly shoes.
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+87
+http://www.jabong.com/gipsy-Printed-Off-White-Jegging-666118.html
+printed off white jegging
+Gipsy
+printed off white jegging
+ look like a diva by wearing this pair of off-white coloured jeggings from gipsy. the animal print all over this pair of regular-fit jeggings makes it a trendy pick. this pair of stretchable jeggings is made from cotton to keep you comfortable throughout.
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+89
+http://www.jabong.com/fcuk-FC1078SSGN-Black-/-Grey-Analog-Watch-96564.html
+fc1078ssgn black / grey analog watch
+FCUK
+fc1078ssgn black / grey analog watch
+ wrapping this wrist watch around your wrist can work as a great accessory. the style that this square dial watch has, revs up your casual or formal wear. flaunt this watch in style as you fold your cuffs and strut. 
+No Color
+None
+None
+ No color in description
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+90
+http://www.jabong.com/fcuk-Fc1106Sswn-Silver/White-Analog-Watch-316192.html
+fc1106sswn silver/white analog watch
+FCUK
+fc1106sswn silver/white analog watch
+ perfect to be paired with ethnic and formal outfits, this silver coloured analog watch for women from fcuk will be a versatile addition to your accessory collection. made from stainless steel, this 50 m water-resistant watch is superior in quality and a valuable investment. further, this analog watch has a 2-year warranty and a classy rectangular dial. 
+No Color
+None
+{0: 'silver'}
+ Color format error in desc
+no error in name_below_brand
+error: UNKNOWN COLOR - color not found in colors list
+_____________________________________________________________________________________________
+
+100
+http://www.jabong.com/gipsy-Solid-Orange-Top-666097.html
+solid orange top
+Gipsy
+solid orange top
+ nail the style of the season when you wear this orange coloured top by gipsy. this top is designed as per the latest trends and fashioned using quality viscose. this top can be paired with basic blue coloured jeans and sneakers.
+orange
+None
+{0: 'blue', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+102
+http://www.jabong.com/faballey-Mega-Sleeves-Pink-Printed-Top-565086.html
+mega sleeves pink printed top
+Faballey
+mega sleeves pink printed top
+ let the world take a peep at your vivaciousness as you wear this top from the house of faballey. made from polyester, this regular-fit top will keep you comfortable in summers. team it with black coloured shorts for a sassy look.
+pink
+None
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+103
+http://www.jabong.com/faballey-Mega-Sleeves-Pink-Solid-Top-565082.html
+mega sleeves pink solid top
+Faballey
+mega sleeves pink solid top
+ looking for a way to diversify your attire for the day? then go ahead and as you wear this pink coloured top from the house of faballey. while the pink colour adds to your feminine charm, the mega sleeves give your overall look some definition. this top can be paired with basic blue coloured jeans and sneakers.
+pink
+None
+{0: 'blue', 1: 'pink'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+107
+http://www.jabong.com/gipsy-White-Embroidered-Top-603565.html
+white embroidered top
+Gipsy
+white embroidered top
+ looking for a way to diversify your attire for the day? then go ahead and wear this top from the house of gipsy. this top is designed as per the latest trends and fashioned using quality 100% cotton. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+white
+None
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+108
+http://www.jabong.com/gipsy-Yellow-Solid-Top-619839.html
+yellow solid top
+Gipsy
+yellow solid top
+ surreal, a perfect word that will define your style as you wear this top from the house of gipsy. while the yellow colour adds to your feminine charm, the style gives your overall look some definition. pair this top with black denims to get endless compliments.
+yellow
+None
+{0: 'yellow', 1: 'black', 2: 'yellow'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+110
+http://www.jabong.com/faballey-Pink-Solid-Top-658000.html
+pink solid top
+Faballey
+pink solid top
+ dress up your summer sensibility as you wear this top from the house of faballey. made from polyester, this regular top will keep you comfortable in summers. this beautiful creation will give you a trendy look when clubbed with matching leggings and sandals.
+pink
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+111
+http://www.jabong.com/faballey-Pink-Tops-498589.html
+pink tops
+Faballey
+pink tops
+ double your fashion flair when you wear this pink coloured top by faballey. made from polyester, this regular top will keep you comfortable in summers. team it with black coloured shorts for a sassy look.
+pink
+None
+{0: 'pink', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+112
+http://www.jabong.com/faballey-Pink-Tops-498613.html
+pink tops
+Faballey
+pink tops
+ double your fashion flair when you wear this pink coloured top by faballey. made from polyester, this regular top will keep you comfortable in summers. team it with black coloured shorts for a sassy look.
+pink
+None
+{0: 'pink', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+115
+http://www.jabong.com/girigauri-Beige-Dhoti-Pant-370650.html
+beige dhoti pant
+Girigauri
+beige dhoti pant
+  
+beige
+None
+None
+Description Not Present No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+132
+http://www.jabong.com/givo-Blue-Formal-Shirt-545877.html
+blue formal shirt
+Givo
+blue formal shirt
+ never out of fashion, this blue coloured formal shirt for men from the house of givo will make you a trendsetter.  made from cotton, this slim-fit, lightweight shirt will keep you sweat and odour free all day long.  team it with grey coloured formal trousers to look classy. 
+blue
+None
+{0: 'blue', 1: 'grey'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+135
+http://www.jabong.com/faballey-Sleeve-Less-Black-Solid-Jumpsuits-533875.html
+sleeve less black solid jumpsuits
+Faballey
+sleeve less black solid jumpsuits
+ lusting after luster wearing jumpsuit by faballey. made from polyester fabric, it is light in weight and will be soft against your skin.  team it with matching pumps to step out in style.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+137
+http://www.jabong.com/faballey-Sleeve-Less-Elemental-Tank-Orange-Top-377798.html
+sleeve less elemental tank orange top
+Faballey
+sleeve less elemental tank orange top
+ a stylish update on the sartorial look wearing orange coloured top by faballey. made from polyester, this regular top will keep you comfortable in summers. pair this top with black denims to get endless compliments.
+orange
+None
+{0: 'black', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+147
+http://www.jabong.com/faballey-Sleeve-Less-Solid-Orange-Dress-405274.html
+sleeve less solid orange dress
+Faballey
+sleeve less solid orange dress
+ pull together a chic look wearing dress by faballey. crafted from polyester, it will keep you comfortable throughout the party. team it with matching pumps to step out in style.
+orange
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+150
+http://www.jabong.com/Femella-Black-Notch-Round-Neck-Midi-Dress-609310.html
+black notch round neck midi dress
+Femella
+black notch round neck midi dress
+ play up girly elements correctly as you wear this shift dress from the house of femella. crafted from cotton spandex, it will keep you comfortable throughout the party. club it with platform heels to look astonishingly charming.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+152
+http://www.jabong.com/faballey-Sleeve-Less-Solid-Orange-Top-318431.html
+sleeve less solid orange top
+Faballey
+sleeve less solid orange top
+ sizzle and ooze oomph wearing this orange coloured top from the house of faballey. made from premium quality polyester, this top is high on comfort. designed as per latest trends, this sleeveless top is all you need to look perfect this season. team it with blue coloured shorts to complete your casual look. 
+orange
+None
+{0: 'blue', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+154
+http://www.jabong.com/Femella-Black-Sequins-Elbow-Patch-Formal-Cape-536561.html
+black sequins elbow patch formal cape
+Femella
+black sequins elbow patch formal cape
+ melt the rainbow wearing this shrug by femella. this shrug is extremely stylish and will upgrade your fashion quotient in an instant. club your junk jewellery with this comfortable shrugs o create an absolutely fabulous look.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+155
+http://www.jabong.com/faballey-Sleeve-Less-Solid-Purple-Top-318453.html
+sleeve less solid purple top
+Faballey
+sleeve less solid purple top
+ step out in style wearing this purple coloured ‘midnight delight’ top from faballey. featuring subtle sheen and offering sweat-free comfort, this regular-fit top is made from polyester. team this sleeveless top with a short black skirt and a golden neckpiece to get a look worth flaunting.
+purple
+None
+{0: 'purple', 1: 'golden', 2: 'black', 3: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+158
+http://www.jabong.com/Femella-Blue-Jersey-Crop-Top-351773.html
+blue jersey crop top
+Femella
+blue jersey crop top
+ trendy and stylish, this blue coloured top certainly deserves a special place in your wardrobe. made from viscose spandex, this top from femella is soft to touch and comfortable to wear all day long. pair this top with black jeans and wedges to look fabulous. 
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+164
+http://www.jabong.com/Femella-Front-Crossover-Top-415789.html
+front crossover top
+Femella
+front crossover top
+ stow away your old stuff as you wear this top in peach colour, from the house of femella. made of premium quality modal, this top is highly comfortable and a perfect pick of the season. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+peach
+None
+{0: 'peach', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+166
+http://www.jabong.com/givo-Navy-Blue-Slim-Fit-Formal-Shirt-439776.html
+navy blue slim fit formal shirt
+Givo
+navy blue slim fit formal shirt
+ get fixated with utter comfort as you adorn this formal shirt from the house of givo. sharpen your look adorning this formal shirt that is fashioned using 80/20 cotton wool for all day comfort. throw on a big dial watch, pleated trousers and formal shoes to make every male colleague go green with envy.
+navy blue
+None
+{0: 'green'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+167
+http://www.jabong.com/givo-Off-White-Stripes-Blazer-533300.html
+off white stripes blazer
+Givo
+off white stripes blazer
+ who says blazers are just for formal wear? givo offers this stylish, off-white coloured blazer that will help you look your best for an upcoming get together. made from linen, this blazer is soft and comfortable to wear. featuring a stripe pattern, this blazer will look great when worn over a crisp white shirt.
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+168
+http://www.jabong.com/Femella-Grey/Blue-V-Cut-Dress-415779.html
+grey/blue v cut dress
+Femella
+grey/blue v cut dress
+ get in touch with your feminine side wearing this grey/blue coloured dresses from the house of femella. this attractive dress is the flavour of the season and will give you a sassy look.  its unique design and beautiful colour will fetch a lot of second glances as you club it with contrast coloured pumps and flashy accessory.
+grey
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+169
+http://www.jabong.com/Femella-Jersey-Ruffle-Top-415788.html
+jersey ruffle top
+Femella
+jersey ruffle top
+ an interesting update to any wardrobe is this aqua blue coloured top by femella. this top is designed as per the latest trends and fashioned using quality modal. this beautiful creation will give you a trendy look when clubbed with matching leggings and sandals.
+aqua blue
+None
+{0: 'blue'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+171
+http://www.jabong.com/givo-Pink-Formal-Shirt-545878.html
+pink formal shirt
+Givo
+pink formal shirt
+ never out of fashion, this pink coloured formal shirt for men from the house of givo will make you a trendsetter. made from cotton, this slim-fit, lightweight shirt will keep you sweat and odour free all day long. team it with grey coloured formal trousers to look classy.
+pink
+None
+{0: 'pink', 1: 'grey'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+175
+http://www.jabong.com/givo-White-Formal-Shirt-545872.html
+white formal shirt
+Givo
+white formal shirt
+ dress to impress by wearing this white coloured formal shirt for men from the house of givo. made from cotton, this slim-fit shirt is highly comfortable and skin friendly. it will instantly upgrade your classic formal look. team it with black coloured formal trousers to look suave. 
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+176
+http://www.jabong.com/givo-White-Suit-533305.html
+white suit
+Givo
+white suit
+ walk the red carpet in style by wearing this white coloured suit set from givo. this white coloured suit set is classy in design and so is a great pick to look aristocratic. made from linen, this suit set ensures comfort at the same time and so is worth investing in.
+white
+None
+{0: 'red', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+179
+http://www.jabong.com/gkiidz-Blue-Dresses-&-Frocks-671675.html
+blue dresses & frocks
+Gkiidz
+blue dresses & frocks
+ make your daughter the centre of attention when she wears this blue coloured dress from gkiidz. featuring white coloured hearts printed all over, this dress will look good with matching footwear and hair accessories. made from 100% cotton, this regular-fit dress will keep her cool and comfortable all day long.
+blue
+None
+{0: 'blue', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+182
+http://www.jabong.com/gkiidz-Green-T-Shirts-671643.html
+green t shirts
+Gkiidz
+green t shirts
+ ensure your little master remains comfortable all day long wearing this green coloured t-shirt from gkiidz. featuring an attractive print, this t-shirt will complement blue jeans and sneakers. made from 100% cotton, this regular-fit t-shirt is light in weight and skin friendly.   
+green
+None
+{0: 'blue', 1: 'green'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+183
+http://www.jabong.com/gkiidz-Grey-And-White-Shirts-671709.html
+grey and white shirts
+Gkiidz
+grey and white shirts
+ make a stylish addition to your son’s wardrobe with this grey & white coloured casual shirt from gkiidz. this chequered shirt with a solid white coloured collar will help him make a distinct style statement. made from 100% cotton, this regular-fit shirt is soft against the skin. this short-sleeved shirt will go well with a pair of shorts.
+grey
+None
+{0: 'grey', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+189
+http://www.jabong.com/Angry-Bird-Red-T-Shirts-673846.html
+red t shirts
+Angry Birds
+red t shirts
+ upgrade your wardrobe by adding this red coloured t-shirt from angry birds. made from cotton, this regular-fit t-shirt is also high on the comfort factor. match this t-shirt with black coloured jeans to create a striking contrast.
+red
+None
+{0: 'red', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+205
+http://www.jabong.com/glam-luxe-Full-Sleeve-Printed-Blue-Top-437647.html
+full sleeve printed blue top
+Glam & Luxe
+full sleeve printed blue top
+ keep your look lively wearing this blue coloured top from the house of glam & luxe. this top is designed as per the latest trends and fashioned using quality 100% viscose. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+blue
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+206
+http://www.jabong.com/glam-luxe-Full-Sleeve-Printed-Blue-Tunic-437662.html
+full sleeve printed blue tunic
+Glam & Luxe
+full sleeve printed blue tunic
+ double your fashion flair as you wear this tunic from the house of glam & luxe. made of premium quality 100% viscose, this tunic is highly comfortable and a perfect pick of the season. this beautiful creation will give you a trendy look when clubbed with matching leggings and sandals.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+211
+http://www.jabong.com/glam-luxe-Full-Sleeve-Printed-Red-Top-437688.html
+full sleeve printed red top
+Glam & Luxe
+full sleeve printed red top
+ double your fashion flair wearing this red coloured top from the house of glam & luxe. fashioned using 100% viscose, this top will keep you at comfort all day long. designed to perfection, this classy top will look great when clubbed with trousers and black pumps.
+red
+None
+{0: 'red', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+223
+http://www.jabong.com/glam-luxe-Purple-Jeans-506236.html
+purple jeans
+Glam & Luxe
+purple jeans
+ earn an all-access pass wearing jeans by glam & luxe. made of cotton blend, these jeans will let your skin breathe, keeping you comfortable all day long. wear these with a printed t-shirt to complete your look.
+purple
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+228
+http://www.jabong.com/glam-luxe-Red-Embroidered-Top-665469.html
+red embroidered top
+Glam & Luxe
+red embroidered top
+ keep your look lively as you wear this top, in red coloured, from the house of glam & luxe. fashioned using viscose, this tops will keep you at comfort all day long. this top can be paired with basic blue coloured jeans and sneakers.
+red
+None
+{0: 'blue', 1: 'red'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+231
+http://www.jabong.com/fabdeal-Blue-Printed-Saree-552608.html
+blue printed saree
+Fabdeal
+blue printed saree
+ green coloured printed sarees for women by fabdeal. made from silk blend, this saree measures 5.5 m in length, and comes with unstitched blouse piece of 0.8 m.
+blue
+None
+{0: 'green'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+246
+http://www.jabong.com/fabdeal-Embellished-Fuchsia-Saree-215298.html
+embellished fuchsia saree
+Fabdeal
+embellished fuchsia saree
+ featuring elegant embellishment and a charming colour, this fuchsia coloured saree from the house of fabdeal represents a perfect amalgam of great design and feminine beauty. crafted from chiffon, this saree is light in weight and easy to carry. the beautifully designed border further adds to the overall appeal of this saree. when clubbed with a matching blouse and silver jewellery, this saree will surely fetch you compliments for your stunning style statement.
+fuchsia
+None
+{0: 'silver', 1: 'fuchsia'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+249
+http://www.jabong.com/glam-luxe-Yellow-Dresses-506196.html
+yellow dresses
+Glam & Luxe
+yellow dresses
+ jet from day to night with ease wearing dress by glam & luxe. tailored in regular fit, this dress will keep you comfortable all day long. team it with matching pumps to step out in style.
+yellow
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+255
+http://www.jabong.com/glidermen-Black-Cufflink-601528.html
+black cufflink
+Gildermen
+black cufflink
+ gildermen offers this pair of black and silver coloured cufflinks that is just what you need to add an interesting twist to your formal look. classy in appeal, these cufflinks will blend well with shirts in dark shades. made from brass, these cufflinks have a fabulous finish and score high on durability. 
+black
+None
+{0: 'silver', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+258
+http://www.jabong.com/Global_Desi-Blue-Printed-Kurta-615472.html
+blue printed kurta
+Global Desi
+blue printed kurta
+ try something new that's perfect for this rugged trend wearing this kurta by global desi. exclusively designed, this kurta with regular will enhance your curves and viscose  will keep you comfortable. team it with contrasting churidar and kolhapuris to complete your look for the day. 
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+259
+http://www.jabong.com/Global_Desi-Cotton-Beige-Printed-Kurti-664276.html
+cotton beige printed kurti
+Global Desi
+cotton beige printed kurti
+ update your casual wardrobe this summer  wearing this kurta by global desi. designed with absolute perfection, this cotton kurta is soft against the skin and will keep you at ease. pair it with matching leggings and sandals to get complimented for your classy choice.
+beige
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+262
+http://www.jabong.com/Global_Desi-Cotton-Blend-Beige-Color-Printed-Kurti-671945.html
+cotton blend beige color printed kurti
+Global Desi
+cotton blend beige color printed kurti
+ earn an all-access pass wearing this kurta by global desi. designed with absolute perfection, these cotton blend kurta is soft against the skin and will keep you at ease. pair it with matching leggings and sandals to get complimented for your classy choice.
+beige
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+265
+http://www.jabong.com/Global_Desi-Cotton-Blend-Blue-Color-Printed-Kurta-671936.html
+cotton blend blue color printed kurta
+Global Desi
+cotton blend blue color printed kurta
+ unlock the secret of ultimate comfort wearing this multicoloured kurta by global desi. made from cotton blend, this kurta is light in weight and perfect for daily wear. this attractive kurta will surely fetch you compliments for your rich sense of style.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+266
+http://www.jabong.com/Global_Desi-Cotton-Blend-Off-White-Solids-Shrug-671941.html
+cotton blend off white solids shrug
+Global Desi
+cotton blend off white solids shrug
+ a chic accent to your casual look is presented by global desi in the form of this voguish off-white coloured shrug. the 3/4th sleeves lend this shrug its fashion appeal, while the cotton blend fabric makes it a lightweight, comfortable wear.
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+272
+http://www.jabong.com/Global_Desi-Embroidered-Cotton-White-Kurta-657892.html
+embroidered cotton white kurta
+Global Desi
+embroidered cotton white kurta
+ revamp your wardrobe for the summer wearing this off-white coloured tunic from the house of global desi. exclusively designed, this tunic will enhance your curves and the soft cotton fabric will keep you comfortable. pair it with matching leggings and sandals to get complimented for your classy choice.
+white
+None
+{0: 'off-white'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+273
+http://www.jabong.com/Global_Desi-Green-Viscose-Blend-Kurti-640777.html
+green viscose blend kurti
+Global Desi
+green viscose blend kurti
+ jet from casual to conservative & vice-versa with ease as you wear this kurta from the house of global desi. designed to absolute perfection, this viscose blend kurta is soft against the skin and will keep you at ease. the dupatta and salwar will further accentuate your ethnic look.
+green
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+279
+http://www.jabong.com/Global_Desi-Viscose-Blend-Off-White-Embroidered-Top-564419.html
+viscose blend off white embroidered top
+Global Desi
+viscose blend off white embroidered top
+ your savoir faire will be highlighted wearing this off-white coloured top from the house of global desi. made of premium quality viscose blend, this top is highly comfortable and a perfect pick of the season. team it with black coloured shorts for a sassy look.
+off white
+None
+{0: 'off-white', 1: 'black'}
+ More than one color present Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+286
+http://www.jabong.com/Global_Desi-Viscose-Cream-Kurta-574968.html
+viscose cream kurta
+Global Desi
+viscose cream kurta
+ flaunt your fearless and fabulous side as you wear this kurta from the house of global desi. the kurta is made from viscose, which ensures complete comfort and breathability to the wearer. the dupatta and salwar will further accentuate your ethnic look.
+cream
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+295
+http://www.jabong.com/Global_Desi-Viscose--Multi-Printed-Palazzo-615487.html
+viscose  multi printed palazzo
+Global Desi
+viscose  multi printed palazzo
+ fashionable and feminine, this yellow coloured salwar for women from the house of global desi is a must-have this season. made from viscose, this regular-fit salwar is high on comfort and provides a snug fit. team it with a black coloured kurta to look gorgeous.   
+yellow
+None
+{0: 'yellow', 1: 'black', 2: 'yellow'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+297
+http://www.jabong.com/Global_Desi-Viscose-Spandex-Stretchable-Solid-Red/Black-Top-626566.html
+viscose spandex stretchable solid red/black top
+Global Desi
+viscose spandex stretchable solid red/black top
+ jet from casual to conservative & vice-versa with ease as you wear this top from the house of global desi. fashioned using viscose spandex, this top will keep you at comfort all day long. pair this top with black denims to get endless compliments.
+red
+None
+{0: 'black'}
+ Color format error in desc
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+301
+http://www.jabong.com/globus-3/4Th-Sleeve-Printed-Green-Kurta-453762.html
+3/4th sleeve printed green kurta
+Globus
+3/4th sleeve printed green kurta
+ look like a dream wearing kurta by globus. made from cotton, this kurta is light in weight and perfect for daily wear. this attractive kurta will surely fetch you compliments for your rich sense of style.
+green
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+305
+http://www.jabong.com/globus-Checks-Pink-Regular-Fit--Casual-Shirt-679700.html
+checks pink regular fit  casual shirt
+Globus
+checks pink regular fit  casual shirt
+ show off a perfect combination of style and unmatched innovation wearing this regular-fit casual shirt by globus. this button-down shirt will be a delight for your skin as it is fashioned using quality cotton. you can pair it with any colour trousers and easily carry it off at office, day outings or even on a shopping spree.
+pink
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+306
+http://www.jabong.com/globus-Full-Sleeve-Solid-Green-Shrug-453818.html
+full sleeve solid green shrug
+Globus
+full sleeve solid green shrug
+ a stylish update on the sartorial look as you wear this shrug from the house of globus. fashioned using viscose spandex, this shrug will not fail to catch your fancy at a single glance. club your junk jewellery with this comfortable shrug to create an absolutely fabulous look.
+green
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+318
+http://www.jabong.com/globus-Solid-Blue-Casual-Shirt-453937.html
+solid blue casual shirt
+Globus
+solid blue casual shirt
+ show off a perfect combination of style and unmatched innovation as you adorn this casual shirt from the house of globus. this button-down shirt will be a delight for your skin as it is fashioned using quality cotton. for the urban man of a metropolitan, this regular-fit casual shirt is something that will highlight your sculptured torso when paired with chinos and loafers.
+blue
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+321
+http://www.jabong.com/globus-Solid-Orange-Jeans-380500.html
+solid orange jeans
+Globus
+solid orange jeans
+ earn an all-access pass wearing these orange coloured jeans from the house of globus. made of cotton polyester, these jeans will let your skin breathe, keeping you comfortable all day long. team them with a white coloured top to complete your casual look.
+orange
+None
+{0: 'white', 1: 'orange'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+323
+http://www.jabong.com/globus-Solid-Purple-Jeans-380503.html
+solid purple jeans
+Globus
+solid purple jeans
+ let the world take a peep at your vivaciousness wearing jeans by globus. made of cotton polyester, these jeans will keep you comfortable in summers. wear these with a printed t-shirt to complete your look.
+purple
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+324
+http://www.jabong.com/globus-Solid-Red-Polo-T-Shirt-453872.html
+solid red polo t shirt
+Globus
+solid red polo t shirt
+ retro is back in style, flaunt the same wearing this regular-fit t-shirt by globus. fashioned using cotton, this can be easily worn when heading out for a crazy day ahead with friends. live the moment wearing this t-shirt with casual trousers and flip-flops as you hit the street with best buds.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+325
+http://www.jabong.com/globus-Solids-Black-V-Neck-T-Shirts-270626.html
+solids black v-neck t shirts
+Globus
+solids black v-neck t shirts
+ keep its simple yet get noticed for your style by wearing this black coloured t-shirt from globus. wearing this v-neck t-shirt, you will look slim and smart for sure. this cotton t-shirt is a must-have to stay comfortable all day long. match it with blue coloured jeans for a striking look. 
+black
+None
+{0: 'blue', 1: 'black'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+326
+http://www.jabong.com/globus-Solids-Navy-Blue-V-Neck-T-Shirts-270662.html
+solids navy blue v-neck t shirts
+Globus
+solids navy blue v-neck t shirts
+ keep its simple yet get noticed for your style by wearing this navy blue coloured t-shirt from globus. wearing this v-neck t-shirt, you will look smart for sure. this cotton t-shirt is a must-have to stay comfortable all day long. match it with light blue coloured jeans for a striking look. 
+navy blue
+None
+{0: 'navy blue', 1: 'light blue'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+327
+http://www.jabong.com/globus-Solid-Yellow-Polo-T-Shirt-453894.html
+solid yellow polo t shirt
+Globus
+solid yellow polo t shirt
+ retro is back in style, flaunt the same wearing this regular-fit t-shirt by globus. fashioned using cotton, this can be easily worn when heading out for a crazy day ahead with friends. live the moment wearing this t-shirt with casual trousers and flip-flops as you hit the street with best buds.
+yellow
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+328
+http://www.jabong.com/globus-Striped-Yellow-Regular-Fit--Polo-T-Shirt-679717.html
+striped yellow regular fit  polo t-shirt
+Globus
+striped yellow regular fit  polo t-shirt
+ add an extra dose of style as you adorn this regular-fit t-shirt from the house of globus. hook up with comfort and roll with time as you adorn this t-shirt fashioned using cotton. style it with acid washed denim jeans and suede loafers for a casual look with an edge.
+yellow
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+345
+http://www.jabong.com/fabdeal-Printed-Brown-Dress-Material-406036.html
+printed brown dress material
+Fabdeal
+printed brown dress material
+ brown coloured printed dress material for women by fabdeal. this unstitched dress material includes size :- (top : 2.50m , bottom : 2.00m , dupatta : 2.25m). material :-( top : crepe jacquard, bottom : american crepe, dupatta : silver chiffon.)
+brown
+None
+{0: 'silver', 1: 'brown'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+346
+http://www.jabong.com/go-bahamas-Black-Sandals-592629.html
+black sandals
+Go Bahamas
+black sandals
+ make a note to get noticed with this pair of sandals by go bahamas. offering optimum traction on the wet or dry floor, the pvc (polyvinyl chloride) sole complements the sleek design of this pair of sandals. wear with skinny jeans and a printed blouse to ensure a comfortable day ahead.
+black
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+353
+http://www.jabong.com/fabdeal-Printed-Green-Dress-Material-406028.html
+printed green dress material
+Fabdeal
+printed green dress material
+ green coloured printed dress material for women by fabdeal. this unstitched dress material includes size :- (top : 2.50m , bottom : 2.00m , dupatta : 2.25m). material :-( top : crepe jacquard, bottom : american crepe, dupatta : silver chiffon.)
+green
+None
+{0: 'silver', 1: 'green'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+357
+http://www.jabong.com/fabdeal-Printed-Lilac-Dress-Material-406038.html
+printed lilac dress material
+Fabdeal
+printed lilac dress material
+ lilac coloured printed dress material for women by fabdeal. this unstitched dress material includes size :- (top : 2.50m , bottom : 2.00m , dupatta : 2.25m). material :-( top : crepe jacquard, bottom : american crepe, dupatta : silver chiffon.)
+lilac
+None
+{0: 'lilac', 1: 'silver'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+358
+http://www.jabong.com/Angry-Bird-White-T-Shirts-673803.html
+white t shirts
+Angry Birds
+white t shirts
+ upgrade your wardrobe by adding this white coloured t-shirt from angry birds. made from cotton, this regular-fit t-shirt is also high on the comfort factor. match this t-shirt with black coloured jeans to create a striking contrast.
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+362
+http://www.jabong.com/Angry-Bird-White-T-Shirts-673860.html
+white t shirts
+Angry Birds
+white t shirts
+ upgrade your wardrobe by adding this white coloured t-shirt from angry birds. made from cotton, this regular-fit t-shirt is also high on the comfort factor. match this t-shirt with black coloured jeans to create a striking contrast.
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+363
+http://www.jabong.com/Angry-Bird-White-T-Shirts-673864.html
+white t shirts
+Angry Birds
+white t shirts
+ upgrade your wardrobe by adding this white coloured t-shirt from angry birds. made from cotton, this regular-fit t-shirt is also high on the comfort factor. match this t-shirt with black coloured jeans to create a striking contrast.
+white
+None
+{0: 'black', 1: 'white'}
+ More than one color present
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+371
+http://www.jabong.com/fabdeal-Printed-Off-White-Saree-346059.html
+printed off white saree
+Fabdeal
+printed off white saree
+  add oodles of oomph to your appearance wearing this off-white coloured saree from the house of fabdeal. made from linen and silk, this saree is high on comfort and will enhance your silhouette. it features a contemporary print all over to upgrade your style quotient. it measures 5.5 m and comes with a blouse piece measuring 0.8 m. team it with minimal jewellery to complete your ethnic look. 
+off white
+None
+{0: 'off-white'}
+ Color mismatch in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+383
+http://www.jabong.com/fabdeal-Red-Printed-Saree-552610.html
+red printed saree
+Fabdeal
+red printed saree
+ multicoloured printed sarees for women by fabdeal. made from silk blend, this saree measures 5.5 m in length, and comes with unstitched blouse piece of 0.8 m.
+red
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+397
+http://www.jabong.com/go-bahamas-Yellow-Sandals-592649.html
+yellow sandals
+Go Bahamas
+yellow sandals
+ cruise through the fashion world wearing this pair of sandals by go bahamas. let every nerve in your feet sing the song of comfort as you adorn this pair of sandals. tie your hair in a high bun, throw on cowl pants and a body-hugging top with this pair of sandals for the look of the day.
+yellow
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
+398
+http://www.jabong.com/fabdeal-Yellow-Embroidered-Dress-Material-569321.html
+yellow embroidered dress material
+Fabdeal
+yellow embroidered dress material
+ if you have an eye for colours, then this vibrant dress material from fabdeal will surely appeal to you. featuring an attractive print, this semi-stitched dress material will catch every passing eye.  made from georgette, this dress material is durable and soft against skin.
+yellow
+None
+None
+ No color in description
+no error in name_below_brand
+_____________________________________________________________________________________________
+
