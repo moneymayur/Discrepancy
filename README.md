@@ -1,4 +1,4 @@
-Crawler for jabong.com
+Crawler 
 =======
 
 A simple crawler for scrapping articles from Bloomberg.com.
